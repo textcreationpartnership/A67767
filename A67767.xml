@@ -1,0 +1,792 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Physick refin'd, or, A little stream of medicinal marrow flowing from the bones of nature wherein several signs, particular rules, and distinct symptoms whereby the most ordinary diseases may be distinctly known, and truly judged, are perspicuously delineated : and the most proper way, safe method, and simpathetical care, whereby nature may be helped, the sick eased, and languishing patients relieved (without the use of poysonous purging potions, and venomous medicaments) is succinctly demonstrated / by John Yarwood.</title>
+            <author>Yarwood, John, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67767</idno>
+            <idno type="STC">Wing Y18</idno>
+            <idno type="STC">ESTC R25217</idno>
+            <idno type="EEBO-CITATION">08794195</idno>
+            <idno type="OCLC">ocm 08794195</idno>
+            <idno type="VID">41865</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67767)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41865)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1272:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Physick refin'd, or, A little stream of medicinal marrow flowing from the bones of nature wherein several signs, particular rules, and distinct symptoms whereby the most ordinary diseases may be distinctly known, and truly judged, are perspicuously delineated : and the most proper way, safe method, and simpathetical care, whereby nature may be helped, the sick eased, and languishing patients relieved (without the use of poysonous purging potions, and venomous medicaments) is succinctly demonstrated / by John Yarwood.</title>
+                  <author>Yarwood, John, 17th cent.</author>
+               </titleStmt>
+               <extent>120 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Passinger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Glasgow University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41865:1"/>
+            <pb facs="tcp:41865:1"/>
+            <p>תריפה צריף׃ <hi>Phyſick Refin'd:</hi> OR, A LITTLE STREAM OF Medicinal Marrow, Flowing from the BONES of NATURE.</p>
+            <p>WHEREIN Several Signs, particular Rules, and diſtinct Symptoms; where<g ref="char:EOLhyphen"/>by the moſt ordinary Diſeaſes may be diſtinctly known, and truly judged, are perſpicuouſly Delineated:</p>
+            <p>AND The moſt proper Way, ſafe Me<g ref="char:EOLhyphen"/>thod, and ſimpathetical Cure, whereby Nature may be helped, the Sick eaſed, and Languiſhing Patients relieved (without the Uſe of Poyſonous Purging Potions, and Venomous Medicaments) is ſuccinctly Demonſtrated: By</p>
+            <p>
+               <hi>John Yarwood,</hi> Profeſſor of Phyſick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Paſſinger,</hi> at the <hi>Three Bibles</hi> on <hi>London-Bridge,</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41865:2"/>
+            <pb facs="tcp:41865:2"/>
+            <head>TO Mrs. <hi>Mary Allſop,</hi> DAUGHTER OF <hi>Anthony Allſop,</hi> of <hi>All<g ref="char:EOLhyphen"/>ſop-i th'-Dale, Eſq;</hi>
+            </head>
+            <p>SInce that Antient Houſe, the Place of Your Nativity, hath been a Magazine of <hi>Medicine;</hi> out of which the Poor of Your Country have been Ar<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:41865:3"/>
+               <hi>gratis</hi> againſt thoſe Darts of Sickneſs, which fight againſt Nature; I have aſſumed the Bold<g ref="char:EOLhyphen"/>neſs of this <hi>Dedication;</hi> not doubting, but a Per<g ref="char:EOLhyphen"/>ſon ſo rarely qualified (as I know You to be) will (in real Generoſity) not only caſt a Benevolent Aſpect on theſe my Pub<g ref="char:EOLhyphen"/>lick Endeavours; but (according to the wont<g ref="char:EOLhyphen"/>ed Goodneſs of Your He<g ref="char:EOLhyphen"/>roick
+<pb facs="tcp:41865:3"/>Spirit) candidly Ac<g ref="char:EOLhyphen"/>cept and Countenance ſo ſmall a Preſent, as this little Tractate, which I have (boldly enough) pre<g ref="char:EOLhyphen"/>ſumed to ſhadow under the Wing of Your Fa<g ref="char:EOLhyphen"/>vour: not as if I thought, One ſo acquainted with Books, would be advan<g ref="char:EOLhyphen"/>taged by reading this <hi>Compendium,</hi> (for I have ſeen You peruſe large Volums, and known
+<pb facs="tcp:41865:4"/>You deduce Judgment from the beſt Authors) but that you may coura<g ref="char:EOLhyphen"/>giouſly go on as You have begun, and (like your good <hi>Mother</hi>) continue helping them, that cannot help themſelves. And that all other Noble minded Ladies &amp; Gentlewomen may follow Your Exam<g ref="char:EOLhyphen"/>ple, is the ſincere Wiſh of</p>
+            <closer>
+               <signed>
+                  <hi>Your Obliged Servant, <hi rend="blackletterType">Iohn Yarwood.</hi>
+                  </hi>
+               </signed>
+               <dateline>
+                  <hi>From</hi> Shepſhead <hi>in</hi> Leiceſter<g ref="char:EOLhyphen"/>ſhire, <date>Octob. 9th. <hi>1682.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:41865:4"/>
+            <head>PHYSICK REFIN'D, &amp;c.</head>
+            <div n="1" type="section">
+               <head>SECT. I. <hi>Scurvey.</hi>
+               </head>
+               <p>THere are wandering Pains running up and down the Bo<g ref="char:EOLhyphen"/>dy; Spots appear in the Fleſhy Parts; and (if the Diſeaſe be confirmed) the Gums
+<pb n="8" facs="tcp:41865:5"/>are affected with Bleeding and Soreneſs. This Diſeaſe of it ſelf is more Troubleſom, than Dangerous; but (if it be not cured) it many times brings <hi>Dropſies, Conſumptions,</hi> and o<g ref="char:EOLhyphen"/>ther Diſtempers ariſing from Obſtructions of the <hi>Spleen;</hi> and is oft the Uſherer in of ſuch A<g ref="char:EOLhyphen"/>cute Diſeaſes, as terminate in the Grave.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>The moſt Excellent Medi<g ref="char:EOLhyphen"/>cines in this caſe, are Tincture of <hi>Tartar,</hi> Tincture of <hi>Antimo<g ref="char:EOLhyphen"/>ny,</hi> and Tincture of <hi>Corals:</hi> Twenty Drops at a time, taken at Night, going to Bed (of any of them) in Spirit of <hi>Scurvey-Graſs,</hi>
+                     <pb n="9" facs="tcp:41865:5"/>or (which is better) Spi<g ref="char:EOLhyphen"/>rit of <hi>Tartar.</hi> Uſe it forty Days together. I have often cured it with <hi>Antimonium Diaphoriti<g ref="char:EOLhyphen"/>cum,</hi> taken as the former, in Beer or Broth, twenty Grains at once, every Night for forty Days together; uſing in the mean time, a Diet Drink, made with <hi>Horſe-Radiſh, Celandine,</hi> and <hi>Muſtard-Seed. Crocus Martis Apperitivis</hi> in this caſe is very proper; but <hi>Oleum Mar<g ref="char:EOLhyphen"/>tis</hi> is better, and may be taken eight Grains at a time. A Spi<g ref="char:EOLhyphen"/>rit diſtill'd from <hi>Antimony</hi> one part, and <hi>Salt-Peetre</hi> three parts, taken to the quantity of five Drops at a time, is highly Fa<g ref="char:EOLhyphen"/>mous in this Diſtemper.</p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <pb n="10" facs="tcp:41865:6"/>
+               <head>SECT. II. <hi>Dropſie.</hi>
+               </head>
+               <p>THis Diſeaſe is a Watery Habit of the Body: 'Tis call'd by three Names, accord<g ref="char:EOLhyphen"/>ing as it affects this, that, or the other Part.</p>
+               <p>The Firſt is called <hi>Aſcitis;</hi> (that is) When much Water is between the <hi>Peritoneum,</hi> and the <hi>Bowels.</hi>
+               </p>
+               <p>The Second is called <hi>Timpa<g ref="char:EOLhyphen"/>nites; (i. e.)</hi> When 'tis of a Windy Cauſe, known by the Hardneſs of the Place, (where that of Water is more ſoft) and
+<pb n="11" facs="tcp:41865:6"/>all other Parts of the Body wax lean.</p>
+               <p>The Third is called <hi>Anaſar<g ref="char:EOLhyphen"/>ca,</hi> or <hi>Leucaphlegma;</hi> (that is) When all the Fleſh of the whole Body appeareth moiſt and ſwelled. 'Tis generally conclu<g ref="char:EOLhyphen"/>ded to be a Defect of the Liver. There is great Thirſt, ſhortneſs of Breath, an ill Colour, and great Heavineſs.</p>
+               <p>If in the Beginning of the Diſeaſe, there be a Flux of the Belly, with Concoction, or the <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> Made be more than what is Drunk, there is hope of Re<g ref="char:EOLhyphen"/>covery.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Let all the Patient's Drink be ſharpned with Spirit of <hi>Salt,</hi> or Oyl of <hi>Sulphur.</hi> They that
+<pb n="12" facs="tcp:41865:7"/>fancy <hi>Purging Medicines,</hi> uſe Syr<g ref="char:EOLhyphen"/>rup of <hi>Buckthorn,</hi> an Ounce at a time in the Morning: But Syrrup of <hi>Pellitory</hi> of the Wall is better, taken a Spoonful at once, two or three times a day. The Root of <hi>Hog-Fennel,</hi> powder'd, and taken a Dram at a time, is ex<g ref="char:EOLhyphen"/>cellent. I uſe <hi>Ens Veneris,</hi> twen<g ref="char:EOLhyphen"/>ty Grains at once, every Night going to Bed.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III. <hi>Small Pox.</hi>
+               </head>
+               <p>THere is firſt a Pain in the Head and Back; the Bo<g ref="char:EOLhyphen"/>dy is feaveriſh, hot, and the
+<pb n="13" facs="tcp:41865:7"/>Face is red and ſwell'd; they are ſleepy, have Red Urine, and Pricking all over the Body. The Third or Fourth Day ſmall Puſtles ariſe, and break out in the Skin.</p>
+               <p>If they ſoon come forth, and Ripen eaſily, appear white, round, and the Breathing free, there is great Hopes of Reco<g ref="char:EOLhyphen"/>very: But Bleeding at Noſe, great Third, difficulty of Brea<g ref="char:EOLhyphen"/>thing, Looſneſs, Bloody Flux, black or livid Urine, a great Feaver, the Puſtles appearing Green, Black, or Blueiſh, or go in again, or black or blue Spots appearing; all theſe are dan<g ref="char:EOLhyphen"/>gerous ſigns.</p>
+               <div type="cure">
+                  <pb n="14" facs="tcp:41865:8"/>
+                  <head>The Cure.</head>
+                  <p>Firſt provoke Sweat with <hi>Be<g ref="char:EOLhyphen"/>zoar Mineral;</hi> ſix Grains for a Child, and ſixteen Grains for <hi>one</hi> of full Age. Take it at Night going to Bed. Or <hi>Antimonium Diaphoriticum</hi> may be given af<g ref="char:EOLhyphen"/>ter the ſame manner, and the ſame Doſe. Take them in Sack. Tincture of <hi>Saffron,</hi> in this caſe, is excellent; taken a Spoonful or two at a time, three or four times a day, in good Wine. Ten drops of Tincture of <hi>Corals,</hi> or ſix Grains of Tincture of <hi>Tar<g ref="char:EOLhyphen"/>tar,</hi> given at Night in Sack, is very good. Take a little <hi>Red Fennel</hi> and <hi>Saffron,</hi> and boyl in Poſſet-drink, and give the Pa<g ref="char:EOLhyphen"/>tient
+<pb n="15" facs="tcp:41865:8"/>to drink often, before they come out. I make up a Medi<g ref="char:EOLhyphen"/>cine thus: Take Spirit of Wine, or <hi>Aquae Mirabolis,</hi> two Oun<g ref="char:EOLhyphen"/>ces, Syrrup of Clove-Gilly-Flowers one Ounce, <hi>Confectio Alkermes</hi> one Dram; mix, and give a Spoonful at a time, four or five times a day.</p>
+               </div>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV. <hi>Cachexia.</hi>
+               </head>
+               <p>'TIs cauſed through Ob<g ref="char:EOLhyphen"/>ſtructions, and Hard<g ref="char:EOLhyphen"/>neſs of the <hi>Liver</hi> and <hi>Spleen;</hi> which brings the whole Body into an ill State and Diſpoſition.</p>
+               <pb n="16" facs="tcp:41865:9"/>
+               <p>This Diſeaſe commonly follows ſome long Sickneſs, as a <hi>Dyſente<g ref="char:EOLhyphen"/>ria</hi> and <hi>Lienteria.</hi> The Fleſh waxes looſe and ſoft, the Pati<g ref="char:EOLhyphen"/>ent is weak, hath bad Digeſti<g ref="char:EOLhyphen"/>on, loatheth Meat, deſires Drink. The Body is whitiſh, and he goeth weakly. 'Tis moſtly in<g ref="char:EOLhyphen"/>cident to Old Men and Chil<g ref="char:EOLhyphen"/>dren.</p>
+               <p>If it continue long, it brings the Patient into a <hi>Dropſie.</hi>
+               </p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>All Medicines, that potently open Obſtructions, are proper in this Caſe. Take <hi>Pulvis Ca<g ref="char:EOLhyphen"/>checticus,</hi> half a Dram at a time, every Morning, and ſtir after it; taking every Night ten
+<pb n="17" facs="tcp:41865:9"/>Grains of Sweating <hi>Antimony. Pilulae Anodynae</hi> (which is moſt commonly known by the name of <hi>Matthew's,</hi> but more properly <hi>Starkey</hi>'s <hi>Pill</hi>) in this Caſe is ex<g ref="char:EOLhyphen"/>cellent, being taken to the quantity of twenty Grains at Night, going Bed, two or three Hours after a light Supper. <hi>Cro<g ref="char:EOLhyphen"/>cus Martis Apperitivus,</hi> in this Caſe, is proper; but <hi>Oleum Mar<g ref="char:EOLhyphen"/>tis</hi> is better, taken eight Grains at a time. I diſtill a Spirit from <hi>Antimony</hi> one Pound, and <hi>Nitre</hi> three Pounds; whereof I give five or ſix Drops in white Wine or Ale: It muſt be drawn in an open Retort, and caſt in by two Drams at a time, and the Retort ſtopt quickly.</p>
+               </div>
+            </div>
+            <div n="5" type="section">
+               <pb n="18" facs="tcp:41865:10"/>
+               <head>SECT. V. <hi>Worms.</hi>
+               </head>
+               <p>THere are three ſorts of <hi>Worms;</hi> as firſt, Round ones, about ſix or eight Inches in length. Such as are troubled with theſe, feel a gnawing in the Stomach and Bowels: They ſtart in their Sleep, have a ſmall dryiſh Cough, and the Body waſtes.</p>
+               <p>The ſecond ſort are broad <hi>Long-Worms,</hi> which do conti<g ref="char:EOLhyphen"/>nually gnaw the Stomach. There is great Appetite, ſlenderneſs and weakneſs of the Body, and
+<pb n="19" facs="tcp:41865:10"/>certain ſmall things, much re<g ref="char:EOLhyphen"/>ſembling <hi>Cucumber-Seeds,</hi> avoy<g ref="char:EOLhyphen"/>ded with the Excrements.</p>
+               <p>The third ſort are thin, ſhort, and ſmall <hi>Worms;</hi> moſtly in the Fundament, and in the Right Gut. They are known by theſe two ſigns; they cauſe the Fun<g ref="char:EOLhyphen"/>dament to itch, and provoke to Stool, which gives the Pati<g ref="char:EOLhyphen"/>ent eaſe</p>
+               <p>
+                  <hi>Worms</hi> voyded in the decli<g ref="char:EOLhyphen"/>ning of a Diſeaſe, (without ta<g ref="char:EOLhyphen"/>king Worm-killing Medicines) is good: But if they leave the Body in the beginning of a Diſ<g ref="char:EOLhyphen"/>eaſe, 'tis a ſign of Death.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Take thin ſlices of fat Cheeſe, ſet them in a Pewter-diſh be<g ref="char:EOLhyphen"/>fore the Fire, and melt out the
+<pb n="20" facs="tcp:41865:11"/>Oyl; put an Ounce of it to half a Pint of ſweet Wort; warm, and drink it in the Mor<g ref="char:EOLhyphen"/>ning, faſting two Hours after it. Take Earth-Worms, ſlit them, ſcowr them in Salt, dry them with a gentle Heat, and give the Powder inwardly. Take Salt of <hi>Wormwood,</hi> drop on Spi<g ref="char:EOLhyphen"/>rit of <hi>Salt</hi> till it ceaſe broyling; dry it, and give twenty Grains at Night.</p>
+               </div>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI. <hi>Gout.</hi>
+               </head>
+               <p>TIs a Diſeaſe of the Joynts, where there is tormen<g ref="char:EOLhyphen"/>ting
+<pb n="21" facs="tcp:41865:11"/>Pains. It hath got five Names, according to thoſe five Places of the Body it uſes to torment. In the Shoulder, it is called <hi>Omagra;</hi> in the Hand, <hi>Chiragra;</hi> in the Hip, <hi>Sciatica;</hi> in the Knee, <hi>Gonogra;</hi> in the Foot, <hi>Podagra.</hi> If it be knot<g ref="char:EOLhyphen"/>ted in the Joynts, or the Pati<g ref="char:EOLhyphen"/>ent very old, Phyſicians count it uncurable. If the Pain run from one Joynt to another, 'tis then call'd a <hi>Rheumatiſm,</hi> or the <hi>Running-Gout.</hi> If this be with an <hi>Aſthma,</hi> the Cure is difficult.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Take twenty Grains of ſweat<g ref="char:EOLhyphen"/>ing <hi>Antimony</hi> at Night, and twenty Drops of Tincture of <hi>Antimony</hi> in the Morning, or the like quantity of Spirit of
+<pb n="22" facs="tcp:41865:12"/>
+                     <hi>Tartar.</hi> Take ſeven Grains of <hi>Salt of Lead,</hi> or twenty Grains of <hi>Ens Veneris</hi> at Night, or <hi>Be<g ref="char:EOLhyphen"/>zoar Minerale.</hi> Sixteen Grains taken as the former, ſweats ex<g ref="char:EOLhyphen"/>cellently, anoynting the Place with the Oyl of Man's Blood, or with a Lye made of the Salt of Cow-dung, diſſolved in the Air, and the Part bathed there-with. Take Pigeon's-Dung, Vinegar, and Muſtard-Seed, of each a like quantity; beat it into the form of an Oyntment, and ap<g ref="char:EOLhyphen"/>ply it (on Linnen) to the Place grieved: Then lay on <hi>Empla<g ref="char:EOLhyphen"/>ſtrum Arthriticum,</hi> till the Pain ceaſe; then apply <hi>Emplaſtrum de Minio,</hi> ſpread on Linnen, and let it lie on a Month; and renew it ſix times.</p>
+               </div>
+            </div>
+            <div n="7" type="section">
+               <pb n="23" facs="tcp:41865:12"/>
+               <head>SECT. VII. <hi>Head-Ach.</hi>
+               </head>
+               <p>IF then Pain be extended to the Root of the Eyes, the Pain is within the Skull; otherwiſe 'tis without the Skull. It com<g ref="char:EOLhyphen"/>monly laſteth long, and invades the Patient with pain on light Occaſions; as Blows, Heat of the Sun, violent Exerciſe, and the like; with extream ſharp Fits. In ſome it continues all times; in others it goes and comes by fits. If the Pain be in<g ref="char:EOLhyphen"/>ward, and extent to the Roots of the Eyes, the Films that co<g ref="char:EOLhyphen"/>ver
+<pb n="24" facs="tcp:41865:13"/>the Brain are inflamed: But if the Pain be outward, the Films that cover the Skull are grieved. 'Tis for the moſt part curable; but if it be of long continuance, 'tis difficult, and is in danger of Returning.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Take <hi>Oyl</hi> of <hi>Vitriol</hi> an Ounce, Spirit of <hi>Wine</hi> (or good <hi>Bran<g ref="char:EOLhyphen"/>dy</hi>) a quart; mix them, cork it well, and ſet it two or three days in a warm Place; and take half an Ounce at a time, in Wine or Ale, two or three times a day. Flowers of <hi>Antimony</hi> (not Vomitive) taken ten Grains at a time, are excellent. Give it every other Night; and five Grains of <hi>Laudanum,</hi> diſſolved
+<pb n="25" facs="tcp:41865:13"/>in Sack (or made into a <hi>Pill</hi>) may be taken the other Night. I uſe <hi>Ens Veneris,</hi> twenty Grains taken at Night in unſalted Broth; or the like quantity of <hi>Matthew</hi>'s (or rather <hi>Starkey</hi>'s) <hi>Pilulae Anodynae.</hi> Boyl Ver<g ref="char:EOLhyphen"/>juice, and put them hot into a narrow-mouth'd Bottle, and re<g ref="char:EOLhyphen"/>ceive the Fume at the Ear, a<g ref="char:EOLhyphen"/>nointing the Temples of the Head with <hi>
+                        <g ref="char:V">Ʋ</g>nguentum Popule<g ref="char:EOLhyphen"/>on,</hi> or rather with this Oynt<g ref="char:EOLhyphen"/>ment. Take <hi>Ground-Ivy,</hi> ſtamp it, and boyl it well in White-Wine; ſtrain out the Herbs, and add <hi>Sallet-Oyl,</hi> and boyl it to the Conſumption of the Moy<g ref="char:EOLhyphen"/>ſture; and anoynt the Head and Temples therewith; warm it well.</p>
+               </div>
+            </div>
+            <div n="8" type="section">
+               <pb n="26" facs="tcp:41865:14"/>
+               <head>SECT. VIII. <hi>Megrim</hi> and <hi>Vertigo.</hi>
+               </head>
+               <p>THe <hi>Megrim</hi> is a Pain in one half of the Head; wherein if the Films that cover the Skull be inflamed, the Pain is ſo vehement, that the Patient cannot ſuffer the Skin to be touched with the Hand; being more violent, than dangerous; for 'tis commonly quickly cu<g ref="char:EOLhyphen"/>red.</p>
+               <p>The <hi>Vertigo</hi> is a Swimming of the Head. 'Tis ſaid to be cauſed by a windy Exhalation. There is Giddineſs; things ſeem to
+<pb n="27" facs="tcp:41865:14"/>turn round; ſometimes the Pa<g ref="char:EOLhyphen"/>tient falls down. There is ma<g ref="char:EOLhyphen"/>ny times dimneſs of Sight, hard<g ref="char:EOLhyphen"/>neſs of Hearing, a decay of Taſte and Smell; the Head is heavy, and acheth; ſome feel a gnawing in the Stomach, and have a diſpoſition to Vomit. This diſtemper commonly turns to ſome other Diſeaſe. If the things which the Sick ſees, ſeem Purple-colour'd, it is the Fore<g ref="char:EOLhyphen"/>runner of the <hi>Epilepſia.</hi> If they ſeem red, or bloody, there is danger of Madneſs. Sometimes it degenerates into an <hi>Apoplexia.</hi>
+               </p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>For the <hi>Megrim,</hi> take ten Grains of <hi>Confectio Anodyna,</hi> or twenty Grains of <hi>Pilulae Ano<g ref="char:EOLhyphen"/>dynae;</hi>
+                     <pb n="28" facs="tcp:41865:15"/>or elſe five Grains of <hi>Laudanum</hi> at Night, and two Drams of Eſſence of <hi>Roſemary</hi> in the Morning. Mix twenty Grains of <hi>Euphorbium</hi> finely powder'd, with an Ounce of <hi>Oyl-Olive;</hi> and drop one Drop into the Ear warm, on the pain<g ref="char:EOLhyphen"/>ed ſide. Alſo take <hi>Euphorbium,</hi> boyl it a little in Vinegar, and apply it to the contrary ſide; or apply a warm Cataplaſm of <hi>Goat</hi>'s—<hi>Dung</hi> and <hi>Vinegar.</hi>
+                  </p>
+                  <p>For the <hi>Vertigo,</hi> anoynt the Noſtrils with Oyl of <hi>Nutmegs, Marjoram,</hi> or <hi>Roſemary:</hi> Give inwardly Eſſence of <hi>Roſemary</hi> in Wine, or <hi>Peacocks-Dung</hi> dry<g ref="char:EOLhyphen"/>ed and powder'd, a Dram at a time; or a few Grains of <hi>Native-Cinabar</hi> in Oyl of <hi>Caraways.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="9" type="section">
+               <pb n="29" facs="tcp:41865:15"/>
+               <head>
+                  <hi>SECT. IX.</hi> Phrenſie and Madneſs.</head>
+               <p>THe <hi>Phrenſie</hi> is a kind of madneſs, or fury joyned with a Feaver; affirmed by ſome to be an Inflammation of the Brain, or the films, hurting the internal ſenſes; there is little ſleep, they ſpeak without ſenſe, riſe up, leap, and cry furiouſly, pulling as though it were ſtraws, or the like from the Bed-clothes, they breath light<g ref="char:EOLhyphen"/>ly, and the Pulſes are ſmall; ſome laugh, others are raging, angry, and hardly ruled.</p>
+               <p>This diſeaſe is commonly
+<pb n="30" facs="tcp:41865:16"/>mortal, and if the Urine be white and clear, 'tis a dangerous ſign.</p>
+               <p>Madneſs hath a great affinity with the <hi>Phrenſie,</hi> the ſignes are evident, they are both hard to cure, they differ in this; the <hi>Phrenſie</hi> is accompanied with a Feaver, <hi>Madneſs</hi> is without; the <hi>Phrenſie</hi> is dangerous, <hi>Mad<g ref="char:EOLhyphen"/>neſs</hi> is tedious, not perilous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>For to help the <hi>Phrenſie,</hi> give 10 grains of ſalt of <hi>Pearl</hi> in <hi>Poppy</hi> water, for one doſe, or 5 grains or <hi>Laudanum</hi> given at twice, 6 hours betwixt, diſſolve it in Sack. Potable Silver ta<g ref="char:EOLhyphen"/>ken 6 grains at a time in this
+<pb n="31" facs="tcp:41865:16"/>caſe is excellent. Tincture of <hi>Antimony</hi> or the flowers cor<g ref="char:EOLhyphen"/>rected, are powerful. <hi>Black Helibore</hi> is a famous ſpecifick, make it into powder and boyl it twelve hours in water to the thickneſs of a Syrup, add its weight of Sugar, and give half a dram at a time.</p>
+                  <p>
+                     <hi>Madneſs</hi> is cured with the ſame medicines (<hi>Laudanum</hi> ex<g ref="char:EOLhyphen"/>cepted) give now and then a dram of the blood of an Aſs, taken out of the veins behind the ears, and ſweat after it, oyl of <hi>Roſemary</hi> is good; I uſe ſalt of Lead, and <hi>Ens Veneris</hi> with good ſucceſs, 8 grains of the firſt, and 20 of the latter.</p>
+               </div>
+            </div>
+            <div n="10" type="section">
+               <pb n="32" facs="tcp:41865:17"/>
+               <head>
+                  <hi>Sect. X.</hi> Lethargy and Deep or dead ſleep.</head>
+               <p>THe <hi>Lethargy</hi> is a drowſie diſtemper conjoyn'd with a Feaver, the patient breaths weakly, ſleeps profoundly, the Pulſe is great, and ſtrikes ſeldom; though the party be often ſpo<g ref="char:EOLhyphen"/>ken to, he (through ſluggiſh<g ref="char:EOLhyphen"/>neſs) ſcarcely anſwereth to the queſtion, only openeth his eyes, and ſhuts them again, ſome<g ref="char:EOLhyphen"/>times raves, and is very forget<g ref="char:EOLhyphen"/>ful. If he be old, Groſs, Fat, and the diſeaſe of long conti<g ref="char:EOLhyphen"/>nuance, 'twill hardly be cured.</p>
+               <p>The deep or dead ſleep is a diſorder of the Brain, wherein
+<pb n="33" facs="tcp:41865:17"/>the Patient ſleeps with his eyes continually ſhut, and he will ſay nothing, though he be ſtir<g ref="char:EOLhyphen"/>red and pricked with needles, it's difference from a <hi>Lethargy</hi> is only in degrees, and this is without a Feaver; the cure is difficult.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>The principal cure of theſe diſeaſes is potable ſilver, taken 5 grains at night, and as much in the morning. The Chimical oyl of <hi>Roſemary</hi> is excellent, and may be given from 10 to 15 drops at a time in a little Sack, and the Temples and head (being ſhaved) may be anointed with it, or oyl of Caſter, then lay a Plaiſter of <hi>Stickticum Paracelſi</hi> on the head,
+<pb n="34" facs="tcp:41865:18"/>taking now and then in the day time 20 or 30 drops of <hi>Elixir Proprietatis,</hi> and ſweat<g ref="char:EOLhyphen"/>ing with 15 drops of ſpirit of <hi>Harts-horn,</hi> or 10 grains of <hi>Be<g ref="char:EOLhyphen"/>zoar</hi> Mineral is good.</p>
+               </div>
+            </div>
+            <div n="11" type="section">
+               <head>
+                  <hi>Sect. XI.</hi> Apoplexia &amp; Catalepſis.</head>
+               <p>THe <hi>Apolexia</hi> is a depri<g ref="char:EOLhyphen"/>ving the whole body of ſenſe and motion; they have pain in the head, ſleep deeply, gnaw the Teeth, feel not when hurt, open not the eyes, An<g ref="char:EOLhyphen"/>ſwer no queſtions, make little Urine, its ſediment is like meal, and its colour like Ruſt or Can<g ref="char:EOLhyphen"/>ker, they ſnore, and breath
+<pb n="35" facs="tcp:41865:18"/>little. 'Tis ſaid to be cauſed through obſtruction of thoſe paſſages whereby the ſpirits are carryed from the <hi>Heart</hi> to the <hi>Brain.</hi> If this diſtemper be a ſtrong one 'tis uncurable, and how weak ſoever, not ea<g ref="char:EOLhyphen"/>ſily helped: 'tis the worſt when it ſeizeth young people in the ſummer. And if Medicines prove effectual againſt the <hi>A<g ref="char:EOLhyphen"/>poplexia,</hi> yet commonly it leaves a <hi>Palſie</hi> either in the whole or part of the body.</p>
+               <p>
+                  <hi>Catalepſis</hi> is a kind of Con<g ref="char:EOLhyphen"/>gelation, ſudden detention or benuming both in Body and Mind, the Patient lies as though he was dead, moves not the eyes. Senſe and Motion are loſt, the pulſe is weak,
+<pb n="36" facs="tcp:41865:19"/>and he remains in the ſame fi<g ref="char:EOLhyphen"/>gure of body in which he was taken, whether he lye, ſtand<g ref="char:punc">▪</g> or ſit, with his eyes ſhut or open, the diſeaſe (if cured) de<g ref="char:EOLhyphen"/>generates many times into an <hi>Apoplexia,</hi> or <hi>Lethargy.</hi>
+               </p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>In both theſe diſtempers, the <hi>Eſſence</hi> of <hi>Roſemary</hi> is excellent, a quarter of an ounce at a time or 10 drops of the Chymical oyl taken in 2 or 3 ſpoonfuls of wine, or 15 drops of the ſpirit of the brains &amp; blood of a ſheep, taken often. <hi>Aurum Potabilie</hi> 6 grains at once, tranſcends all other medicines; bath the head with tincture of <hi>Papper,</hi> and a<g ref="char:EOLhyphen"/>noint it with <hi>Balſamum Poly<g ref="char:EOLhyphen"/>chreſtum. Elixir Proprietatis</hi> 15
+<pb n="37" facs="tcp:41865:19"/>grains in wine, is proper in theſe caſes.</p>
+               </div>
+            </div>
+            <div n="12" type="section">
+               <head>Sect. <hi>XII.</hi> Epilepſia.</head>
+               <p>THe <hi>Falling-ſickneſs</hi> is a Convulſion of the body, hurting the mind and ſenſes at ſome certain times, for when the fit comes, the patient is pluckt together, falls down, trembles, cryes out, and (if the diſeaſe be violent) foams at mouth. <hi>Van Helmont</hi> ſaith tis cau<g ref="char:EOLhyphen"/>ſed by an infenſitive, befooling and mad poyſon, afflicting for a ſpace, being inſtalled in the Mi<g ref="char:EOLhyphen"/>driff. It commonly happens to children, but if it happen to per<g ref="char:EOLhyphen"/>ſons of full age, tis ſeldom cured.</p>
+               <div type="cure">
+                  <pb n="38" facs="tcp:41865:20"/>
+                  <head>The Cure.</head>
+                  <p>Provoke ſneezing with <hi>Hel<g ref="char:EOLhyphen"/>ebore,</hi> and adminiſter <hi>Elixir Proprietatis,</hi> or <hi>Elixir Vitae,</hi> a dram at a time, the <hi>Antepilep<g ref="char:EOLhyphen"/>tick</hi> ſpirit of <hi>Vitriol,</hi> 8 grains at once in ſome cordial ſpirit, is excellent, take 12 grains of <hi>Pulvis Antepilepticus</hi> twice in a week. Take the Livers of for<g ref="char:EOLhyphen"/>ty Frogs, dry them with a gentle heat, and give them in fine powder at five times, morn<g ref="char:EOLhyphen"/>ing and evening. The powder of native <hi>Cinabar</hi> is much com<g ref="char:EOLhyphen"/>mended mixt with the oyle of <hi>Carraways.</hi> Oyl of <hi>Amber,</hi> ten grains at once may be often ad<g ref="char:EOLhyphen"/>miniſtred; dry the brains of a <hi>Weeſle,</hi> make the ſame into fine powder, and drink it in vine<g ref="char:EOLhyphen"/>gar.
+<pb n="39" facs="tcp:41865:20"/>The volatile <hi>Salt,</hi> and ſpi<g ref="char:EOLhyphen"/>rit of <hi>venal blood</hi> is famous in this caſe, 5 grains of the Salt, or ten drops of the ſpirit for one doſe; Take every morn<g ref="char:EOLhyphen"/>ing 2 drams of the <hi>Opeate</hi> of <hi>Moniagnana,</hi> commended by <hi>Riverius.</hi> Give a new born child 2 drams of oyl of ſweet <hi>Almonds,</hi> mixt with ſugar be<g ref="char:EOLhyphen"/>fore it ſuck, or take any thing for preventing this diſtemper.</p>
+               </div>
+            </div>
+            <div n="13" type="section">
+               <head>
+                  <hi>Sect. XIII.</hi> Palſie and Trembling.</head>
+               <p>THe <hi>Palſie</hi> is a diſtemper in which the whole body, or ſome particular part or member doth loſe its ſenſe or
+<pb n="40" facs="tcp:41865:21"/>motion, or both, according as all, or ſome of the Nerves are obſtructed. If the back bone be principally affected with the obſtruction, the lower parts are afflicted, but from the af<g ref="char:EOLhyphen"/>fection of the brain, the face and upper parts are offended, this diſeaſe is more frequently ſeizing in the winter than in ſummer, and happens oftner to old people than young ones, If it be not occaſioned from the cutting of a ſinew, it may be cured.</p>
+               <p>Trembling commonly goes before a <hi>Palſie,</hi> and is cauſed through weakneſs of the ſi<g ref="char:EOLhyphen"/>new, either by reaſon of old Age, or exceſſive drinking.</p>
+               <div type="cure">
+                  <pb n="41" facs="tcp:41865:21"/>
+                  <head>The Cure.</head>
+                  <p>Tincture of <hi>Tarter,</hi> 10 drops, or ſpirit of <hi>Tartar,</hi> 20 drops at a time are proper in the caſe; take 12 grains of <hi>Pulvis An<g ref="char:EOLhyphen"/>tepilepticus</hi> once in two dayes, and provoke ſweat by 10 grains of <hi>Bezoar Mineral</hi> taken at night, or ſix grains of pota<g ref="char:EOLhyphen"/>ble ſilver; bathe the place grie<g ref="char:EOLhyphen"/>ved with an eſſence of Green Tobacco leaves, made with <hi>Malmſey wine,</hi> rub and chafe it well in and uſe it often.</p>
+                  <p>Then anoint with <hi>Balſamum Hyſtericum,</hi> or <hi>
+                        <g ref="char:V">Ʋ</g>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>guentum Martiatum. A cataplaſm</hi> of the greater <hi>Walnut-root</hi> is much commended, and often bath<g ref="char:EOLhyphen"/>ing the part with Milk and Oyl.</p>
+                  <pb n="42" facs="tcp:41865:22"/>
+                  <p>Trembling is helped by the uſe of <hi>Elixir Proprietatis,</hi> a dram taken at once, morning and night, and by all the for<g ref="char:EOLhyphen"/>mer medicines mentioned a<g ref="char:EOLhyphen"/>gainſt the <hi>Palſie.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="14" type="section">
+               <head>Sect. XIV. <hi>Melan<g ref="char:EOLhyphen"/>cholia.</hi>
+               </head>
+               <p>THey that languiſh under this diſtemper, have ſtrange imaginations conceit<g ref="char:EOLhyphen"/>ing themſelves to be like what they reſemble not; and that they are what they are not. 'Tis known by fearfulneſs, ſad<g ref="char:EOLhyphen"/>neſs, hatred, and ſuch doleful paſſions of the Mind, ſome conceiting themſelves to be
+<pb n="43" facs="tcp:41865:22"/>beaſt of this kind, others of that. Some are fearful of what will not hurt them, others would hurt or kill themſelves, (cauſe no body elſe will) ſome weep, others laugh. Some foretell ſtrange things to come, others cannot tell what was done yeſterday. 'Tis a deplo<g ref="char:EOLhyphen"/>rable diſeaſe, very uncomfort<g ref="char:EOLhyphen"/>able ſtate, long and tedious, and in Aged people, ſeldom cured.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>The beſt thing is <hi>Potable ſil<g ref="char:EOLhyphen"/>ver,</hi> taken 6 grains at night, and a dram of <hi>Elixir Proprieta<g ref="char:EOLhyphen"/>tis, Elixir Vitae, Eſſentia Mag<g ref="char:EOLhyphen"/>na, Eſſence</hi> of <hi>Saffron, Syrupus Alkermes</hi> or <hi>Spiritus Analepti<g ref="char:EOLhyphen"/>cus</hi> in the morning. The Chy<g ref="char:EOLhyphen"/>mical
+<pb n="44" facs="tcp:41865:23"/>oyles of <hi>Cinanion, Cloves,</hi> or <hi>Roſemary,</hi> given to the quantity of 8 drops at once in wine or warm broth, is excel<g ref="char:EOLhyphen"/>lent. So are flowers of <hi>Anti<g ref="char:EOLhyphen"/>mony</hi> (corrected) 6 grains, at night taken in <hi>London Treacle,</hi> Take <hi>Black Hellebore,</hi> ſalt of <hi>Tartar,</hi> and as much white wine as will work them into ſtiff paſt, put it in a glaſs, ſtop the Air from it, and after it is two months old, give 5 or 6 grains at a time in a pill and increaſe the doſe. Twenty grains of <hi>Matthews</hi> Pill is excellent.</p>
+               </div>
+            </div>
+            <div n="15" type="section">
+               <pb n="45" facs="tcp:41865:23"/>
+               <head>
+                  <hi>Sect. XV.</hi> Night-mare and Cramp.</head>
+               <p>BY the <hi>Night-mare,</hi> I mean that oppreſſive weight and nocturnal ſuffocation which the <hi>Greek</hi> Phyſitians call <hi>Ephialtes,</hi> and the <hi>Latines Incubus.</hi> It commonly ſeizeth the Patient 'twixt ſleep and wake, he thinks he feels ſome<g ref="char:EOLhyphen"/>thing very heavy upon him; he ſtrives hard, yet cannot move, or ſtir himſelf, only groans but cannot ſpeak; 'tis cauſed by eating full and late ſuppers, of ſuch meats as are hard of digeſtion, exceſſive drinking or ſuch like intempe<g ref="char:EOLhyphen"/>rance, and if it continue long
+<pb n="46" facs="tcp:41865:24"/>many times turns to the falling ſickneſs, madneſs, or an <hi>Apo<g ref="char:EOLhyphen"/>plexia.</hi>
+               </p>
+               <p>The <hi>Cramp</hi> or Convulſion is a ſhrinking or contraction o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Nerves, either of the whole body, or of ſome particular part<g ref="char:punc">▪</g> That of the whole body pro<g ref="char:EOLhyphen"/>ceeds either from the marrow of the back, when the Muſcle that move the head and back are drawn together, or from defect of the brain, when th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> face is pluckt alſo with the bo<g ref="char:EOLhyphen"/>dy. That of a part is a parti<g ref="char:EOLhyphen"/>cular obſtruction of its origi<g ref="char:EOLhyphen"/>nal. If it be taken in time i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be cured, elſe not.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Both theſe diſtempers are cu<g ref="char:EOLhyphen"/>red with the ſame Medicines
+<pb n="47" facs="tcp:41865:24"/>have preſcribed to be uſed in the <hi>Epilepſia,</hi> at the 12 <hi>Section.</hi> In the Cramp, you may An<g ref="char:EOLhyphen"/>noint the part ſhrunk with oyl of <hi>Amber,</hi> mixt with oyl of <hi>Ro<g ref="char:EOLhyphen"/>ſes,</hi> and apply over it <hi>Empla<g ref="char:EOLhyphen"/>ſtrum Hiſtericum.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="16" type="section">
+               <head>Sect. <hi>XVI.</hi> Pearl and Cataract.</head>
+               <p>THat which is vulgarly known by the name of a <hi>Pearl,</hi> is ſometimes called <hi>Pin</hi> and <hi>Web,</hi> being a white ſpot, contracted by the <hi>Cornea,</hi> and comprehending a ſmall ſpace of the <hi>Pupilla.</hi>
+               </p>
+               <p>the Cataract, or ſuffuſion, is a diſtemper wherein the wa<g ref="char:EOLhyphen"/>tery
+<pb n="48" facs="tcp:41865:25"/>Humour of the Eye be<g ref="char:EOLhyphen"/>comes too thick. In the be<g ref="char:EOLhyphen"/>ginning of the diſeaſe, the pa<g ref="char:EOLhyphen"/>tient thinks he ſees ſmall things before his eyes, as Gnats, hairs, and the like; it commonly af<g ref="char:EOLhyphen"/>fects but one Eye at once, when the diſeaſe is confirmed, the ſight totally periſheth; there appeareth dark matter in the <hi>Pupilla,</hi> or white ſpots about it; there are red veins about the Circle, and a thick skin over the whole Eye. The Green coloured <hi>Cataract,</hi> and that wherein the Pupil of the Eye is dilated, ſo far that no circle may be ſeen within the Tunicles, the Eye ſeeming all black or all white, are both un<g ref="char:EOLhyphen"/>curable: but if the patient be
+<pb n="49" facs="tcp:41865:25"/>young and can ſee as through a miſt he may be helped.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>For a Pearl put into the Eye a whole ſeed of <hi>Oculus Chriſti,</hi> and waſh it with this water, Honey two ounces, juice of Celandine three ounces, white <hi>Vitriol</hi> a dram (diſſolved in a ounces of water) and drop it into the eye. For the <hi>Cata<g ref="char:EOLhyphen"/>ract</hi> waſh the eye 5 times a day in the infuſion of <hi>Crocus Me<g ref="char:EOLhyphen"/>tallorum</hi> in white wine, giving ten drops of Oyle of <hi>Roſema<g ref="char:EOLhyphen"/>ry</hi> every morning, in warm wine or broth.</p>
+               </div>
+            </div>
+            <div n="17" type="section">
+               <pb n="50" facs="tcp:41865:26"/>
+               <head>
+                  <hi>Sect. 17.</hi> Blindneſs &amp; Inflammation of the Eyes.</head>
+               <p>BLindneſs is ſometimes To<g ref="char:EOLhyphen"/>tal, and yet the Eye to look upon ails nothing. If the diſeaſe proceed through ob<g ref="char:EOLhyphen"/>ſtruction of the Optick nerves, (as commonly it doth) through ſuper-abounding Humidity, and the ſight totally extinct, 'tis accounted incurable: but if it be occaſioned through the gathering of humours in the forepart of the head, (as ſome affirm it may) compreſſing the Nerves, there is ſome ſmall hopes of recovery.</p>
+               <p>
+                  <hi>Inflammation of the Eyes,</hi> Is
+<pb n="51" facs="tcp:41865:26"/>that which is commonly called Blood-ſhot, cauſed through defluctions, occaſioned by heat; blows, great grief, and the like, and 'tis eaſily helped.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>In Blindneſs, 'tis convenient to ſharpen the Patients drink with Oyl of <hi>Vitriol,</hi> or Oyle of <hi>Sulphur,</hi> and take Oyle of <hi>Roſe<g ref="char:EOLhyphen"/>mary</hi> ten drops at a time, morn<g ref="char:EOLhyphen"/>ing and night, in four ſpoon<g ref="char:EOLhyphen"/>fulls of warm wine.</p>
+                  <p>Take <hi>Tutia</hi> and <hi>Aloes,</hi> of each three drams, white Sugar 2 drams, <hi>Roſe-water</hi> and <hi>white wine,</hi> of each 6 ounces mixt, and in a glaſs well ſtopt, digeſt in the ſun, or in ſome other ſuch heat, for a mon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th, ſhake it every day, then let it ſettle,
+<pb n="52" facs="tcp:41865:27"/>pure off the clear, and waſh the Eyes with it, both morn<g ref="char:EOLhyphen"/>ing, noon and Night, both for this diſtemper, and for a <hi>Cata<g ref="char:EOLhyphen"/>ract.</hi> Inflammation, or blood<g ref="char:EOLhyphen"/>ſhot, is cured by ſalt of <hi>Lead</hi> diſſolved in fair water, or <hi>Roſe-water,</hi> or white <hi>Vitriol</hi> one ounce diſſolved in three pints of water, and the Eyes waſh<g ref="char:EOLhyphen"/>ed with it, or with whites of Eggs beaten to water, or waſh with the water ſqueezed out of rotten Apples.</p>
+               </div>
+            </div>
+            <div n="18" type="section">
+               <head>Sect. 18. <hi>Deafneſs.</hi>
+               </head>
+               <p>IF this diſtemper proceed from a Feaver, 'tis remedied by curing the Feaver, if it be
+<pb n="53" facs="tcp:41865:27"/>ſome times better and ſome<g ref="char:EOLhyphen"/>times worſe, or proceed from a diſtemper of the Brain, it may be helped. But if the <hi>Tympany</hi> be broken, the diſeaſe from the birth, or abſolute, and of long continuance, there is no hope of recovering.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Take the Gall of a Partridge, mix it with ſo much Oyl of <hi>Amber,</hi> and drop in three or four drops at a time, and do it three times a day; for want of that uſe the fat of an Eele, a Mole or Hedghog, as the for<g ref="char:EOLhyphen"/>mer. The juice of <hi>Radiſhes</hi> is much commended, ſo is the juice of an Onion ſoaked in Brandy, and roaſted, but I think oyl of Carawayes, two
+<pb n="54" facs="tcp:41865:28"/>drops at once is better. Some uſe the water that drops out of a green Aſh ſtick (laid with one end into the fire) boyled a little with the ſaid fat of an Ele, and dropped into the Ear warm, but above all, take ſnakes or Adders, being fat, (which is in <hi>July</hi>) caſt away the heads, tayles, bowels, and skins, put the other in a glaſs, pour ſpi<g ref="char:EOLhyphen"/>rit of wine three inches above them, ſtop it well, and digeſt in a warm place, till the ſub<g ref="char:EOLhyphen"/>ſtance be turned to an oyle, keep it for uſe, and put two or three drops at a time into the deaf Ear.</p>
+               </div>
+            </div>
+            <div n="19" type="section">
+               <pb n="55" facs="tcp:41865:28"/>
+               <head>
+                  <hi>Sect. 19.</hi> Bleeding at Noſe.</head>
+               <p>'TIS cauſed by ſtripes, blowes, falls, heat, ve<g ref="char:EOLhyphen"/>hement exerciſe, or elſe through an abundance of thin blood, with pain and inflammation of the head, and if it be not ſoon ſtanched is dangerous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Put a Tent into the bleeding Noſtril dipt in the white of an Egg, and cover'd over with <hi>Bole Armoniack.</hi> Give the Patient inwardly Syrup of <hi>Vi<g ref="char:EOLhyphen"/>negar,</hi> and apply <hi>Sticticum Pa<g ref="char:EOLhyphen"/>racelſi</hi> to the Crown.</p>
+                  <p>Burn blew wooling cloth
+<pb n="56" facs="tcp:41865:29"/>to Aſhes, and ſnuff them up the Noſe, and caſt cold water in the face.</p>
+                  <p>Tye up a ſpider in a linnen Cloth, bruſe it a little, and hold it near the Noſe, but touch it not.</p>
+                  <p>Dry the Patients blood to powder, and ſnuff it up the noſe, and take Inwardly ſix grains of Salt of Lead.</p>
+                  <p>Take <hi>Vinegar</hi> and Plantain water, of each two pound, mix it, dip folded Linnens and apply them to the ſoles of the feet, palmes of the hands, and againſt the Liver; drinking <hi>Vinegar,</hi> and holding ſome of it in the mouth, or take twenty drops of Tincture of Corals in wine or ale.</p>
+                  <pb n="57" facs="tcp:41865:29"/>
+                  <p>Bind the Head very hard with Incle, and let the knot be in the neck, and lay a ſpunge dipt in Vinegar to the Noſe. Wet a Linnen cloth in Vine<g ref="char:EOLhyphen"/>gar and wrap it about the Members of him that bleedeth.</p>
+                  <p>Take Century, Green Rue, and red Fennel, of each a like quantity, ſtamp them, ſtrain the juice into Ale; and ſo drink it. Wet a Cloth of Linnen in ſharp <hi>Vinegar,</hi> burn the cloth, and blow the Aſhes into the bleed<g ref="char:EOLhyphen"/>ing noſtrils.</p>
+               </div>
+            </div>
+            <div n="20" type="section">
+               <head>Sect. 20. <hi>Tooth-Ach.</hi>
+               </head>
+               <p>THe common opinion of Phyſitians is, that this
+<pb n="58" facs="tcp:41865:30"/>diſtemper is cauſed either ſim<g ref="char:EOLhyphen"/>ply through heat, or cold, or elſe complicately through de<g ref="char:EOLhyphen"/>fluction of Rheum, &amp;c. But old <hi>Hippocrates</hi> ſaid that hot, cold, moiſt or dry was not diſ<g ref="char:EOLhyphen"/>eaſes, but that which is ſharp, bitter, ſour and harſh; And <hi>Helmont</hi> affirmeth, that the Tooth doth not Ake from Rheume falling on it, but by either the Goome being unco<g ref="char:EOLhyphen"/>vered, it is made too ſenſible, or elſe matter of the laſt nour<g ref="char:EOLhyphen"/>iſhment being badly digeſted, doth putrifie about the root of the Tooth, hence comes pain, It is moſt common to rotten and hollow Teeth, and theſe are ſeldom cured without they be taken out.</p>
+               <div type="cure">
+                  <pb n="59" facs="tcp:41865:30"/>
+                  <head>The Cure.</head>
+                  <p>Take 20 Ivy leaves, a little long pepper, boyl them well in old Wine, with a handful of Salt, and hold the liquor in the Mouth on the Aking ſide.</p>
+                  <p>Take Primroſe roots, Infuſe them ten dayes in Brandy, and ſnuff a little up the Noſe.</p>
+                  <p>Take <hi>Opium</hi> and <hi>Saffron,</hi> of each two grains, ty it up in a bit of ſilk (or thin rag) and hold it between the Teeth. If the Tooth be hollow, put a piece of a Crowfoot root into the hole, or dip lint in Spirit of <hi>Sal Armoniack,</hi> and apply it thereunto.</p>
+                  <p>Drop three or four drops of juice of <hi>Rue</hi> into the Ear on the Aking ſide, and lye an hour after on the other ſide.</p>
+                  <pb n="60" facs="tcp:41865:31"/>
+                  <p>Take white Pepper in pow<g ref="char:EOLhyphen"/>der one dram, Oyl of <hi>Origanum</hi> ten Grains, mix and keep it in a box, and ſnuff a little up the Noſe on the aking ſide.</p>
+               </div>
+            </div>
+            <div n="21" type="section">
+               <head>Sect. 21. <hi>Quinſey.</hi>
+               </head>
+               <p>IN a true <hi>Quinſey</hi> there is dif<g ref="char:EOLhyphen"/>ficulty of ſwallowing, and breathing, Redneſs of the neck and face, a Tumor and ſwelling in the Throat, and ſometimes a Feaver, and is commonly ve<g ref="char:EOLhyphen"/>ry dangerous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Moſt Phyſitians in this caſe draw blood. The juice of <hi>Orpin</hi> taken two or three ſpoonfuls at a time is excellent,
+<pb n="61" facs="tcp:41865:31"/>ſo is the juice of <hi>Houſleek,</hi> or Crabfiſh: the juices may be mixt with the diſtilled water of the Herbs, and if a few drops of the Spirit of <hi>Sal Armoniack</hi> be added it will be the better, and let the tongue be rubbed with the ſaid juice of Crab-fiſh or Houſleek, let the Patients drink be <hi>Sal Prunella</hi> diſſolv'd in water, or take Spirit of <hi>Ni<g ref="char:EOLhyphen"/>tre</hi> two drams, Spirit of Wine, and Spirit of Salt of each half a dram, put them to a pint of water, and drink it at three times, and to ſweeten the blood (which in this caſe offends by reaſon of the ſharpneſs of the Liquor <hi>Latex</hi>) the Tincture of Corals is a famous Medica<g ref="char:EOLhyphen"/>ment, taken ten drops at once
+<pb n="62" facs="tcp:41865:32"/>in Wine or Ale. The Aſhes of burnt Crabs, or Swallows, ta<g ref="char:EOLhyphen"/>ken inwardly are much com<g ref="char:EOLhyphen"/>mended, and the Aſhes of an Owl (feathers and all) well calcin'd, blown into the throat, is an excellent thing to break the Impoſthume.</p>
+               </div>
+            </div>
+            <div n="22" type="section">
+               <head>Sect. 22. <hi>Pleuriſie.</hi>
+               </head>
+               <p>THis diſeaſe is an Inflam<g ref="char:EOLhyphen"/>mation of the <hi>Pleura,</hi> or skin, girding the Ribs, cauſed through abundance of <hi>Venal</hi> blood ſent thither, chiefly of<g ref="char:EOLhyphen"/>fending in quality, for the <hi>Ar<g ref="char:EOLhyphen"/>cheus</hi> being exaſperated, an ex<g ref="char:EOLhyphen"/>orbitant Peſtilent Impreſſion is made in the <hi>Latex,</hi> taunting it
+<pb n="63" facs="tcp:41865:32"/>with a ſuperabounding ſharp<g ref="char:EOLhyphen"/>neſs; the which lighting into the fleſh, between the Ribs, cauſes a <hi>Pleuretical</hi> pain, and ſometimes the fibres of the <hi>Pleura</hi> are rent aſunder from the Ribs, and while it doth but never ſo lit<g ref="char:EOLhyphen"/>tle ſlacken it ſelf, the neighbor<g ref="char:EOLhyphen"/>ing Blood runs to it, in the place of the wrinkles, made by contracting of the Fracture, and this by repeated turns, is the cauſe of a great <hi>Apoſthume,</hi> according to the frequency and ſharpneſs of the contractures. 'Tis known by a Feaver, dif<g ref="char:EOLhyphen"/>ficulty of breathing, hard Pulſe like a ſaw, a Cough, pricking pain, and ſometimes a Tumor. If the Feaver be violent, ſpit<g ref="char:EOLhyphen"/>tle bloody, very white, green
+<pb n="64" facs="tcp:41865:33"/>or black, or the Patient very old, or <hi>Aſtmatical,</hi> 'tis dange<g ref="char:EOLhyphen"/>rous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>In this diſeaſe moſt draw blood, and affirm the neceſſity of that way, but this hath only the power of privation, leaves the root of the diſeaſe, from whence commonly ſprings up a Relaps. A dram of <hi>Goats</hi> blood taken at once (firſt dry'd and powdr'd is the beſt reme<g ref="char:EOLhyphen"/>dy I know, take it in Poppy water, at night going to bed, (every night repeating it) in want of this give Spirit of wine and Spirit of <hi>Sal Nitre,</hi> of each twenty Grains in <hi>Poppy water</hi> as the former. Tincture of <hi>Corals</hi> and Tincture of <hi>Tartar</hi>
+                     <pb n="65" facs="tcp:41865:33"/>twenty drops at once of either, ſweetens the blood notably. When the Impoſthume is broke, give Syrup of Succory, and Spirit of Ground Ivy mix<g ref="char:EOLhyphen"/>ed with its own Salt.</p>
+               </div>
+            </div>
+            <div n="23" type="section">
+               <head>
+                  <hi>Sect. 23.</hi> Cough and Asthma.</head>
+               <p>THis diſorder call'd a Cough, is commonly cauſed through cold taken, or through ſome ſharp matter con<g ref="char:EOLhyphen"/>tain'd in the Breaſt and Lungs, which cauſes a cough without ſpitting. If it happen to Aged people, having a great ob<g ref="char:EOLhyphen"/>ſtruction of the Lungs, and ceaſe ſuddenly, 'tis very dan<g ref="char:EOLhyphen"/>gerous <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <pb n="66" facs="tcp:41865:34"/>
+               <p>The <hi>Aſthma</hi> is of two ſorts, <hi>viz.</hi> the moyſt, and the dry; the moiſt <hi>Aſthma</hi> produceth a Cough, to expectorate the of<g ref="char:EOLhyphen"/>fending matter, yet differs from Cough, in that it hath a mat<g ref="char:EOLhyphen"/>tery Impoſthume, or ſecret flegm obſtructing in the bowel, whereby it brings forth excre<g ref="char:EOLhyphen"/>mentitious matter, and cor<g ref="char:EOLhyphen"/>rupts its proper nouriſhment.</p>
+               <p>The dry <hi>Aſthma</hi> commonly comes from the <hi>Gaſs</hi> of <hi>Mettals</hi> and <hi>Minerals,</hi> to diggers Mel<g ref="char:EOLhyphen"/>ters, and Chymiſts, vitiating the Channels of the wind-pipe, whereby nouriſhment degene<g ref="char:EOLhyphen"/>rates into Excrements.</p>
+               <p>There is ſwelling in the Lungs, and ſtoppage in the Throat: In Children it turns
+<pb n="67" facs="tcp:41865:34"/>into a <hi>Catarrh,</hi> in men, it gene<g ref="char:EOLhyphen"/>rally ends in a <hi>Chachexia, Plu<g ref="char:EOLhyphen"/>riſie,</hi> or <hi>Dropſie.</hi>
+               </p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>For a Cough, cut the flegm with Syrup of <hi>Vinegar;</hi> then uſe Syrup of <hi>Succory,</hi> taking at night <hi>Elixir Proprie<g ref="char:EOLhyphen"/>tatis,</hi> Tincture of <hi>Sugar,</hi> or extract of <hi>Elecampane,</hi> and hold in the mouth <hi>Trochiſci Bechici.</hi> All theſe medicines are good in the moiſt <hi>Asthma,</hi> as alſo juice of <hi>Radiſh Roots,</hi> with Tincture of Sugar. The dry <hi>Asthma</hi> is cured with <hi>Epilepticals,</hi> as Secti<g ref="char:EOLhyphen"/>on the 12th.</p>
+               </div>
+            </div>
+            <div n="24" type="section">
+               <pb n="68" facs="tcp:41865:35"/>
+               <head>
+                  <hi>Sect. 24.</hi> Inflammati<g ref="char:EOLhyphen"/>on of the Lungs, and <g ref="char:V">Ʋ</g>lcer of the Breaſt.</head>
+               <p>AN Inflammation of the Lungs is accompanied with a ſharp Feaver, cauſed by ſome preceding diſeaſes for the moſt part, known by great heat, difficult breathing, and ſtretching out of the breaſt, with a redneſs there, the breath is hot, the eyes ſwell, a dry Cough, Appetite is loſt, the Tongue is dry<g ref="char:punc">▪</g> the Patient is deſirous of cold Air, and cold water. If this diſeaſe follow a <hi>Pleuriſie,</hi> 'tis very dangerous.</p>
+               <p>An Ulcer of the breaſt is
+<pb n="69" facs="tcp:41865:35"/>generally from an inflammati<g ref="char:EOLhyphen"/>on of the Lungs, being ſuppu<g ref="char:EOLhyphen"/>rated, and the Rupture of the Impoſtume, whereby the mat<g ref="char:EOLhyphen"/>ter falls into the cavity of the Breaſt; while the ſuppuration is perfecting, the Feaver in<g ref="char:EOLhyphen"/>creaſeth, but being broken, the Patient ſpits Matter, is faint, with heavineſs in the bottom of the Breaſt, a Cough and great pain: If the matter ſpit up be green, livid, froathy, or brought up with difficulty, and the bel<g ref="char:EOLhyphen"/>ly looſe, 'tis very dangerous, If the matter be not ſpit up in a Moneths time, it turns to a Conſumption.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>An Inflammation of the Lungs is cured wih the ſame
+<pb n="70" facs="tcp:41865:36"/>Medicines mentioned for a <hi>Pleuriſie</hi> at Section the 22th.</p>
+                  <p>For an <hi>
+                        <g ref="char:V">Ʋ</g>lcer</hi> in the breaſt, Take 10 grains of <hi>Antimoni<g ref="char:EOLhyphen"/>um Diaphoreticum</hi> at once four times a day, Anoint the ſto<g ref="char:EOLhyphen"/>mach with Oyntment of To<g ref="char:EOLhyphen"/>bacco, and then lay on a pul<g ref="char:EOLhyphen"/>tis of Figs and Raiſons (ſtoned) mixt with oyl of <hi>Amber,</hi> and <hi>Juniper berries,</hi> ſharpning the Patient drink with oyl of <hi>Sul<g ref="char:EOLhyphen"/>phur,</hi> or <hi>Vitriol.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="25" type="section">
+               <head>Sect. 25. <hi>Conſumption</hi>
+               </head>
+               <p>THis diſtemper is a waſt<g ref="char:EOLhyphen"/>ing of the whole Body the Patient breathes difficult<g ref="char:EOLhyphen"/>ly, the Eyes are hollow, the Noſtrils ſharp, is Thirſty,
+<pb n="71" facs="tcp:41865:36"/>and hath a Cough ſometimes, and the hair falls off, ſpits ei<g ref="char:EOLhyphen"/>ther froath, blood, or matter, from an Ulcer in the Lungs. If the matter ſpit up ſtink; If the body be very looſe or an acute diſeaſe conjoyned, 'tis very dangerous, But if the Ulcer be but new begun, there is hope of Recovery.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>
+                     <hi>Balſom</hi> of <hi>Sulphur</hi> is excel<g ref="char:EOLhyphen"/>lent, take it 3 or 4 grains at a time, Morning, Noon, and Night, and let the Patients drink be ſharpen'd with oyl or <hi>Sulphur</hi> 20 or 30 drops to a pint. The oyles of <hi>Roſemary, Cinamon,</hi> and <hi>Carawayes,</hi> help much, taken ten drops at a time in brothe Lukewarm,
+<pb n="72" facs="tcp:41865:37"/>there is a Syrup made of <hi>Co<g ref="char:EOLhyphen"/>rals,</hi> or Tincture of the ſame uſed with good ſucceſs, ſo is Syrup of <hi>Turneps,</hi> and extract of <hi>Elecampane,</hi> a ſpoonful at once in any convenient <hi>Vehicle. Trochiſchi Bechiſi</hi> taken 5 grains at once 3 times a day hath proved effectual; ſo hath a Syrrup made of the juice of Cabbage 1 ounce a day. Take Choyce Myrrh 4 ounces, <hi>Saf<g ref="char:EOLhyphen"/>fron</hi> half an ounce. Nutmegs two ounces, <hi>Aromaticum Roſa<g ref="char:EOLhyphen"/>tum,</hi> two ounces, <hi>Olibanum,</hi> one ounce, Honey three pound, make it into an Electuary, and take as much as a Hazzle nut 3 times a day.</p>
+               </div>
+            </div>
+            <div n="26" type="section">
+               <pb n="73" facs="tcp:41865:37"/>
+               <head>
+                  <hi>Sect. 26.</hi> Spitting of Blood.</head>
+               <p>IT may be cauſed by exceſ<g ref="char:EOLhyphen"/>ſive crying, leaping, blows, or falls: or inwardly through Plenitude, or ſharpneſs of the Liquor <hi>Latex,</hi> corroding the veſſels. 'Tis commonly ill, more eſpecially when 'tis from the <hi>Lungs;</hi> and many times fore<g ref="char:EOLhyphen"/>tells a Conſumption, if it be not critical, &amp;c.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>All thoſe Medicines mentio<g ref="char:EOLhyphen"/>ned in the laſt Section, for the cure of a Conſumption, are proper to be uſed here, to which theſe following may be
+<pb n="74" facs="tcp:41865:38"/>added. If the diſorder be cauſed through ſharpneſs of the <hi>Latex, Goates</hi> blood gently dry'd and pouderd, and given a dram at a time is excellent, <hi>Henbane-ſeed</hi> powdered and mixed with <hi>Electuarium ad Ta<g ref="char:EOLhyphen"/>bidos,</hi> and given morning, noon, and night, is commended. The Electuary is thus prepared. Take <hi>Nutmegs</hi> and <hi>Cinnamon,</hi> of each 3 ounces, <hi>Ginger,</hi> three drams, <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>giſtry</hi> of <hi>Pearl,</hi> two ounces, clarified Honey, twelve ounces, beat the ſpecies ſeve<g ref="char:EOLhyphen"/>rally, then mix them together with the Honey; given half a dram at a time, morning and evening, <hi>Trochiſci Beehici,</hi> ta<g ref="char:EOLhyphen"/>ken 5 or 6 grains at once is profitable; 'Tis thus made
+<pb n="75" facs="tcp:41865:38"/>Take juice of <hi>Liquoris,</hi> one pound, white Sugar 2 pound, <hi>Opium</hi> one ounce, with the mucilage of <hi>Gum Tragocanth,</hi> make it into Roles or <hi>Troches,</hi> and dry them. But above all is <hi>Roche Allome;</hi> diſſolve it in water, and diſtill off the wa<g ref="char:EOLhyphen"/>ter to a dry bottom, and give 20 drops at a time in any drink.</p>
+               </div>
+            </div>
+            <div n="27" type="section">
+               <head>
+                  <hi>Sect. 27.</hi> Pain of the Stomach.</head>
+               <p>THere is ſometimes accom<g ref="char:EOLhyphen"/>panying this diſeaſe a pain in the Head, which ſhews the diſtemper to ariſe from Wind, and continuing unre<g ref="char:EOLhyphen"/>moved, a Timpany follows:
+<pb n="76" facs="tcp:41865:39"/>If there be a perpetual gnaw<g ref="char:EOLhyphen"/>ing felt in the ſtomach,—then it is cauſed by <hi>Worms,</hi> and ſo leſs dangerous; if there be a looſeneſs, vomiting or the pati<g ref="char:EOLhyphen"/>ent thereunto inclined, it ſhews a ſharpneſs in the ſtomach, and if it be accompanied with a Feaver, or the extream parts be cold, 'tis very dangerous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>If the diſtemper be occaſio<g ref="char:EOLhyphen"/>ned by Wind, things Carmi<g ref="char:EOLhyphen"/>native are moſt proper. Take the diſtilled oyls of <hi>Cumming<g ref="char:EOLhyphen"/>ſeeds,</hi> half an ounce of Fen<g ref="char:EOLhyphen"/>nel, <hi>Annis</hi> and <hi>Caraway,</hi> of each one dram, of <hi>Dill</hi> and <hi>Camo<g ref="char:EOLhyphen"/>mil</hi> of each half a dram, mix and take 3 or 4 grains in luke warm broth. If worms cauſe
+<pb n="77" facs="tcp:41865:39"/>the diſorder take the cure from the 5 Section. If it be cauſed by ſome preternatural ſharpneſs in the ſtomach; ſome anoint outwardly with the oyntment of Tobacco, and uſe <hi>Lauda<g ref="char:EOLhyphen"/>num</hi> 3 or 4 grains, given at night in a pill, but 8 or 9 drops of oyl of <hi>Cinamon</hi> in luke<g ref="char:EOLhyphen"/>warm broth is much ſafer, ſpi<g ref="char:EOLhyphen"/>rit of <hi>Camomil</hi> in <hi>Mint-water,</hi> is famous in the caſe, ſo is Eſ<g ref="char:EOLhyphen"/>ſence of <hi>Elder, Angelica</hi> and <hi>Roſemary.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="28" type="section">
+               <head>
+                  <hi>Sect. 28.</hi> Swounding, and Beat<g ref="char:EOLhyphen"/>ing of the Heart.</head>
+               <p>SWounding in ſome is cauſed through extraordinary fear, Immoderate grief, <hi>&amp;c.</hi> and in
+<pb n="78" facs="tcp:41865:40"/>this caſe 'tis the leaſt danger<g ref="char:EOLhyphen"/>ous: in others its without ma<g ref="char:EOLhyphen"/>nifeſt cauſe, and theſe common<g ref="char:EOLhyphen"/>ly dye ſuddenly, but in a Fea<g ref="char:EOLhyphen"/>ver 'tis dangerous and perniti<g ref="char:EOLhyphen"/>ous. Immoderate and unna<g ref="char:EOLhyphen"/>tural beating and trembling of the heart, may be known by feeling, and is ſometimes cauſed through ſhame, joy, fear or Anger: In others 'tis continual, and in theſe caſes the leaſt to be feared. But if it be cauſed from a Tumour in the <hi>Pere<g ref="char:EOLhyphen"/>cardium</hi> or <hi>Arteries</hi> of the <hi>Lungs</hi> (as ſome Phyſitians ſay it may) it is incurable, and coming upon an acute diſeaſe, very dangerous.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Of both theſe diſtempers are
+<pb n="79" facs="tcp:41865:40"/>performed with Cordials, mongſt which <hi>Aurum Potabi<g ref="char:EOLhyphen"/>le,</hi> and <hi>Species Alexipharmaca,</hi> taken 5 or 6 grains at a time of either, is excellent, ſo is <hi>Elixir Proprietatis,</hi> and <hi>Elixir Vitae,</hi> 20 grains, taken in Wine or Syrup of <hi>Clove-gilly ſlowers.</hi> Oyl of <hi>Citrons</hi> and juice of <hi>Al<g ref="char:EOLhyphen"/>kermes</hi> mixt with Spirit of Wine, is highly commended; ſo is the Eſſence or ſpirit of <hi>Bawnt, Borage,</hi> and <hi>Bugloſe. Magiſte<g ref="char:EOLhyphen"/>ry</hi> of <hi>Pearls,</hi> and <hi>Corals.</hi> There are a ſort of Flies which Chil<g ref="char:EOLhyphen"/>dren call Lady Cows with Golden colour'd wings, being gently dryed and powdered, are given inwardly with good ſucceſs.</p>
+               </div>
+            </div>
+            <div n="29" type="section">
+               <pb n="80" facs="tcp:41865:41"/>
+               <head>
+                  <hi>Sect. 29.</hi> Depraved and Loſt Appetite.</head>
+               <p>A Depraved Appetite is that which fondly covets, longs for, and deſires to eat hurtful things, not fit for food, as Oatmeal, unripe fruits, Chalk, Coals, Aſhes, <hi>&amp;c.</hi> it commonly happens to Women with Child, and Maids troubled with the Gren ſickneſs; this may be of long continuance, but (of it ſelf in Maids) it is not dange<g ref="char:EOLhyphen"/>rous, yet if it be not cured, great obſtructions, <hi>Cachexia's, Dropſies,</hi> and pain of the ſto<g ref="char:EOLhyphen"/>mach follows.</p>
+               <p>Want of Appetite is cauſe by obſtruction of the mouthes
+<pb n="81" facs="tcp:41865:41"/>of the <hi>Meſeraicks,</hi> or through too much fullneſs and over glutting of the ſtomach, or elſe weakneſs, want of natu<g ref="char:EOLhyphen"/>ral heat, <hi>&amp;c.</hi> and if it happen in the declination of a diſeaſe, it ſignifies a relapſe, if it be cauſed through want of natu<g ref="char:EOLhyphen"/>ral heat 'tis moſt dangerous, and worſe to be liked in children than in men.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>To women with child, the blood of a Vine is commended. Maids may remove the cauſe which is beſt performed by <hi>E<g ref="char:EOLhyphen"/>lixir Proprietatis, Eſſence</hi> of <hi>Garlick, Savin,</hi> or <hi>Penroyal;</hi> Tincture or ſpirit of <hi>Tartar,</hi> taken 4 or 5 times at Night going to bed, 8 drops at once.</p>
+                  <pb n="82" facs="tcp:41865:42"/>
+                  <p>In a depraved appetite, give 9 drops of oyl of Cloves, or oyl of <hi>Cinamon</hi> in warmiſh broth, ſharpen the Patients drink with the oyl of <hi>Vitriol,</hi> or oyl of <hi>Sulphur,</hi> and in both caſes ſtrengthen the ſtomach as at Sect. 30.</p>
+               </div>
+            </div>
+            <div n="30" type="section">
+               <head>Sect. <hi>30.</hi> Vomiting.</head>
+               <p>THis diſorder is generally cauſed through weak<g ref="char:EOLhyphen"/>neſs or foulneſs of the ſtomach; weakneſs may ariſe from Ante<g ref="char:EOLhyphen"/>cedent cauſes, as too much emptineſs, want of natural reſt, ſuperlative Anger, boundleſs Paſſion, and the like. If the matter vomited up be green,
+<pb n="83" facs="tcp:41865:42"/>black, livid, or ſtinking, it is for the moſt part dangerous, but being of none of theſe colours, but coming after a Flux of the belly, 'tis good or on a Critical day, 'tis accounted by the <hi>Gale<g ref="char:EOLhyphen"/>niſts</hi> a plauſible ſign of Reco<g ref="char:EOLhyphen"/>very, provided the matter vo<g ref="char:EOLhyphen"/>mited up be ſuch as they call Flegm and Choler.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Moſt Phyſitians in this caſe (when it is cauſed through the foulneſs of the ſtomach) give a gentle vomit. The ſto<g ref="char:EOLhyphen"/>mach muſt be ſtrengthened with <hi>Syrup</hi> of Corals and Pearls, and Spirit of Mint, take a ſpoonful at a time morning noon, and night. Crude juice of Quinces is wonderful pow<g ref="char:EOLhyphen"/>erful,
+<pb n="84" facs="tcp:41865:43"/>and Syrup of <hi>Vinegar</hi> is none of the worſt Medicines. Let all the Patients drink be ſharpned wirh oyl of <hi>Sul<g ref="char:EOLhyphen"/>phur;</hi> give 15 Grains of <hi>Elixir Proprietatis</hi> in Sack, at night going to bed, or the like quan<g ref="char:EOLhyphen"/>tity of <hi>Elixir Vitae,</hi> applying to the ſtomach a Cataplaſm of Bread and Vinegar, or a plai<g ref="char:EOLhyphen"/>ſter of <hi>London</hi> Treacle. There may be a Mageſtery made of <hi>Oyſter-ſhells</hi> and given to the quantity of 20 grains at a time, with good ſucceſs.</p>
+               </div>
+            </div>
+            <div n="31" type="section">
+               <head>Sect. 31. <hi>Iliac Paſſion.</hi>
+               </head>
+               <p>THis is a diſtemper of the ſmall Guts, commonly occaſione through obſtruction
+<pb n="85" facs="tcp:41865:43"/>of the Bowels, with a coldneſs, and <hi>putrifaction</hi> of food: it is known by moſt vehement and horrible pain, the ſtomach a<g ref="char:EOLhyphen"/>bounds with too much moi<g ref="char:EOLhyphen"/>ſture, there is a great rumbling in the Bowels, <hi>Wind and belch<g ref="char:EOLhyphen"/>ing without eaſe;</hi> the dung is ſtopt, and if the diſeaſe increaſe, the Patient voyds all the ex<g ref="char:EOLhyphen"/>crements upward, and then 'tis moſtly accounted deadly, and being accompanied with the <hi>Stranguria</hi> 'tis the worſe.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>'Tis performed by thoſe Medi<g ref="char:EOLhyphen"/>cines preſcribed for removing the <hi>Colick</hi> at the <hi>32 Section,</hi> a dram of <hi>Cream</hi> of <hi>Tartar</hi> diſſolved in a meſs of unſalted broth, hath been
+<pb n="86" facs="tcp:41865:44"/>found effectual; ſo hath oyl of <hi>Almonds</hi> and <hi>Malmſey</hi> wine. I uſe to ſharpen the Patients drink with oyl of <hi>Vitriol,</hi> to a pleaſant acidity, which hath proved effectu<g ref="char:EOLhyphen"/>all when all hope from common means hath been paſt, and cliſters was vomited upward.</p>
+               </div>
+            </div>
+            <div n="32" type="section">
+               <head>Sect. 32. <hi>Cholick.</hi>
+               </head>
+               <p>TIS a pain in the <hi>Gut Co<g ref="char:EOLhyphen"/>lon,</hi> ſometimes cauſed by <hi>Wind,</hi> and then there is a ſtretching forth and ſwelling of the belly; if it be occaſioned through Inflammation of the ſaid <hi>Gut;</hi> there is an inward burning hear, ſtoppage of U<g ref="char:EOLhyphen"/>rine, the body is bound; ſome<g ref="char:EOLhyphen"/>times
+<pb n="87" facs="tcp:41865:44"/>there is vomiting, thirſt, and a Feaver. If the diſtemper be behement, the belly bound, with watchings, vomiting, Hiccough, coldneſs of the ex<g ref="char:EOLhyphen"/>tream parts, and cold ſweats, all theſe are deſperat ſymptomes; but if the diſeaſe be gentle, and the body ſoluble, there's little danger.</p>
+               <div type="cure">
+                  <head>The Cure</head>
+                  <p>Take Salt of <hi>Wormwood,</hi> and drop on it ſpirit of <hi>Salt,</hi> till it ceaſe broyling, dry it and give <hi>8</hi> or <hi>9</hi> grains at a time in broth, Infuſe Hawthorn flowers in Rheniſh wine, diſtill off the ſpirit, and take a ſpoonful at once.</p>
+                  <p>Take Lemmon, Orange, and <hi>Citron peels,</hi> of each two ounces, ſpirit of wine one pint, infuſe
+<pb n="88" facs="tcp:41865:45"/>them together <hi>20</hi> dayes, pour off the <hi>Tincture,</hi> and give a ſpoonful at once in wine, with a few drops of oyl of <hi>Cinamon.</hi> Take ſpirit of Salt and ſpirit of wine, of each a like quantity, mix them in a Glaſs, and adminiſter <hi>40</hi> drops at once in a draught of wine or Ale. Take <hi>6</hi> or <hi>7</hi> grains of ſalt of Lead in white wine, or ten grains of <hi>Ens Veneris</hi> taken in broth, at night going to bed, and the like quantity at morning and noon two hours before and after meat hath been found very effectu<g ref="char:EOLhyphen"/>all. If the diſeaſe be cauſed by wind, give Oyl of <hi>Anniſeeds, Fennel,</hi> or <hi>Carawayes</hi> in warm broth, proper ſpirit or diſtilled water.</p>
+               </div>
+            </div>
+            <div n="33" type="section">
+               <pb n="89" facs="tcp:41865:45"/>
+               <head>
+                  <hi>Sect. 33.</hi> Flux of Blood and Matter.</head>
+               <p>A Bloody <hi>Flux</hi> is an <hi>Exul<g ref="char:EOLhyphen"/>ceration</hi> of the Bowels, known by vehement pain and bloody Excrements, when the diſorder is in the Great Bowels, the dung is as at other times, comes forth with wind, froath<g ref="char:EOLhyphen"/>ineſs and Blood aloft, but if the ſmall Guts be exulcerated, there is pain about the <hi>Navel,</hi> the Excrements are of various colours, (if black and ſtinking the caſe is deſperate) common<g ref="char:EOLhyphen"/>ly they are of a Lead colour, and there is a gnawing felt: If there be pain in the Liver
+<pb n="90" facs="tcp:41865:46"/>and Midriff, Vomiting and Hiccough, Loathing of meat, a Feaver, thirſt, or pieces of fleſh voided, the eaſe is dange<g ref="char:EOLhyphen"/>rous. A Flux of Matter ge<g ref="char:EOLhyphen"/>nerally follows a Flux of blood; the Patient continually goes to ſtool, the Excrements are crude and pale, and the taſte is loſt; if the diſeaſe laſt long, it may turn to a Dropſie: when it follows other diſeaſes, 'tis for the moſt part deadly.</p>
+               <p>There is alſo an ordinary flux of the belly, which in a drop<g ref="char:EOLhyphen"/>ſie ſhews recovery, but if it happen to a woman with child or the Excrements be Green, Blew, Black or Yellow, 'tis of evil ſignification.</p>
+               <div type="cure">
+                  <pb n="91" facs="tcp:41865:46"/>
+                  <head>The Cure.</head>
+                  <p>
+                     <hi>Let the Patient drink</hi> Cows Milk <hi>plentifully,</hi> Potable Gold, <hi>and tincture of</hi> Corals <hi>are ex<g ref="char:EOLhyphen"/>cellent, ſo is the juice or pulp of</hi> Quinces, <hi>or a dram of crude</hi> Allum <hi>diſſolved in water, and ſo drank, but</hi> Roach Allum <hi>diſ<g ref="char:EOLhyphen"/>ſolved in water, and it diſtilled off in Aſhes is highly famous, ſo are</hi> Bramble Berries <hi>gathered un<g ref="char:EOLhyphen"/>ripe, dried and powdered, and given in Red wine, the juice of ſloes or Poppy water.</hi> Tincture <hi>of</hi> Emeralds <hi>is excellent,</hi> 5 <hi>grains at a time. See the following Sect.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="34" type="section">
+               <head>Sect. 34. <hi>Tenaſmus.</hi>
+               </head>
+               <p>THis diſtemper is a conti<g ref="char:EOLhyphen"/>nual deſire in the Pati<g ref="char:EOLhyphen"/>ent
+<pb n="92" facs="tcp:41865:47"/>to go to ſtooll, without voiding any thing, except bloody or filthy matter like ſnevil, ſome ſay it is generally cauſed by cold, or that it may be by means of a Flux of Blood or matter: if it continue long, there is danger of an <hi>
+                     <g ref="char:V">Ʋ</g>l<g ref="char:EOLhyphen"/>cer;</hi> and if it happen to a wo<g ref="char:EOLhyphen"/>man with child, there is great danger of Abortion.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>
+                     <hi>This diſtemper is helped with thoſe Medicines mentioned in the foregoing Section of Fluxes, to which theſe may be added, being a like proper in all four caſes. Take new butter (unſalted) melt it in a Baſon ſet in hot water, pour off the clear from the feces, and then boyl it for half an hour, and
+<pb n="93" facs="tcp:41865:47"/>therewith mix verjuice, juice of ſloes or Roſe Vinegar, and uſe the ſame as ſauce to the Yolkes of Eggs boyled hard; dry the blood of a Hare to powder, and take it in<g ref="char:EOLhyphen"/>wardly. Take a large Apple, fill up the middle part (where the core lay) with a piece of an Honey comb (the Honey being ſqueezed out) Roaſt it in embers, and ſo eat it wax and all. Take the outward bark of black thorn, dry it and powder it, and drink it in red wine. Take white ſtones with red veins, boyle them in new milk till half the milk is waſted, and drink plentifully thereof, or new milk wherein ſteel hath been often quenched, works the ſame ef<g ref="char:EOLhyphen"/>fect. Take yellow wax, and ducks greaſe, make an oyntment for the fundament.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="35" type="section">
+               <pb n="94" facs="tcp:41865:48"/>
+               <head>Sect. <hi>35.</hi> Hemorroids.</head>
+               <p>THis Diſtemper is alſo cal<g ref="char:EOLhyphen"/>led the <hi>Piles,</hi> 'tis the flowing of-blood to the Fun<g ref="char:EOLhyphen"/>dament by the veins, which in ſome ſent forth much, in others they ſend out little or no blood, and theſe latter have commonly vehement pain in going to ſtool. And at other times alſo: if the Flux of blood be very immoderate, 'tis dange<g ref="char:EOLhyphen"/>rous, and brings great weak<g ref="char:EOLhyphen"/>neſs, Dropſies and an ill ſtate of body to the Patient, but if the flux of blood be moderate Critical or otherwiſe for the be<g ref="char:EOLhyphen"/>nefit of nature, 'tis— healthful</p>
+               <div type="cure">
+                  <pb n="95" facs="tcp:41865:48"/>
+                  <head>The Cure.</head>
+                  <p>
+                     <hi>If the Piles be ſwell'd or the pain vehement, apply to the place</hi> Crocus Metallorum, <hi>take in<g ref="char:EOLhyphen"/>wardly the binding</hi> Crocus <hi>of the binding</hi> Crocus <hi>of Iron</hi> 30 <hi>grains at a time, if the flux of blood be great. There is an herb called Pile-wert, being made into an oyntment hath been found ſuccesful, but if it be made up with the aſhes of burnt cork and Capons greaſe 'tis the better, or mix ſalt of Lead with freſh butter, and there<g ref="char:EOLhyphen"/>with ancint the place. Take Con<g ref="char:EOLhyphen"/>ſcrve of Roſes, and therewith mix a little fine Bole, and take a knif<g ref="char:EOLhyphen"/>point full at a time; but above all is the fume of</hi> Frankinſence, <hi>put it on ſome live coales in a deep pot, and let the patient ſit over it.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="36" type="section">
+               <pb n="96" facs="tcp:41865:49"/>
+               <head>Sect. <hi>36.</hi> Obstruction of the Liver.</head>
+               <p>IN this Diſtemper the Urine is watery, thin and white, the Excrements of the belly are moiſt and Chylous (of the ſame Colour as the Urine is of) the Patient is commonly lean of body, yet very purſie and dull, the face is pale, and after eating there is a preſſure in the right <hi>Hypocondria,</hi> with ill digeſtion: If it continue long, it is not to be cured.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>The beſt and moſt abſolute Medicine in this caſe is the ſpirit or Tincture of Tartar ta<g ref="char:EOLhyphen"/>ken to the quantity of 8 or 9
+<pb n="97" facs="tcp:41865:49"/>drops at a time in Wine or Ale. Tincture of Corals may be ta<g ref="char:EOLhyphen"/>ken as the former; many in this caſe uſe the filings of Iron crude, whereof they give twenty or thirty grains at a time thrice a day, but the oyl of Iron is better; its thus pre<g ref="char:EOLhyphen"/>pared. Take filings of ſteel, diſſolve them in ſpirit of ſalt, put the diſſolution into a Glaſs retort; place it in a ſand Fur<g ref="char:EOLhyphen"/>nance, and diſtill off the ſpirit, which come off ſweet in taſte, whereof you may give 8 or 9 drops at a time, the common way of curing this diſorder is by giving every morning a dram and half of <hi>Pulvis Ca<g ref="char:EOLhyphen"/>checticus,</hi> and ſtiring well after it, The <hi>Yellow Jaundice</hi> are
+<pb n="98" facs="tcp:41865:50"/>cured by all theſe Medicines which are proper for the cure of the <hi>Green-ſickneſs,</hi> and there<g ref="char:EOLhyphen"/>fore I ſhall ſay no more of that diſeaſe; ſee Section the 37.</p>
+               </div>
+            </div>
+            <div n="37" type="section">
+               <head>Sect. 37. <hi>Yellow-Jaundice.</hi>
+               </head>
+               <p>TIS known by yellowneſs of the skin, moſt diſco<g ref="char:EOLhyphen"/>verable in the Cheeks and whites of the Eyes: the tongue is bitter, and ſome have a hic<g ref="char:EOLhyphen"/>cough and vomiting, the Urine is Reddiſh, or Yellow, in ſo much that it will dye a piece of Linnen Cloth of the ſame Colour. If this diſeaſe come to the Patient in the beginning of a Feaver 'tis dangerous; if it comes upon an Inflammation
+<pb n="99" facs="tcp:41865:50"/>of the Liver, it foretells an Im<g ref="char:EOLhyphen"/>poſtume, if upon a <hi>Scirrhus,</hi> it ends in a Dropſie.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>All the medicines mentioned in the <hi>36</hi> Sect. for to open ob<g ref="char:EOLhyphen"/>ſtructions of the <hi>Liver,</hi> are alſo proper for the cure of the <hi>Yellow Jaundice.</hi> Drop oyl of <hi>Vitriol,</hi> on <hi>Salt</hi> of <hi>Tartar,</hi> till it ceaſe making a noiſe, then dry it, and give twenty grains at a time in broth, or any other convenient li<g ref="char:EOLhyphen"/>quor. Take the Gall of a <hi>Raven,</hi> dry it to powder, and drink there<g ref="char:EOLhyphen"/>of in Ale a week together. Take a great Apple, pick out the core, fill it up with Butter, Turmerick and Saffron, Roſt it, and give it the Patient to Eat, do ſo four or five mornings together. <hi>Elixir
+<pb n="100" facs="tcp:41865:51" rendition="simple:additions"/>Proprietatis</hi> is excellent, half a ſpoonful at a time, boyl in the Pa<g ref="char:EOLhyphen"/>t ents broth Ground Ivy, and the Rootes, wires, and Leaves of <hi>Strawberries.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="38" type="section">
+               <head>
+                  <hi>Sect. 38.</hi> Obſtruction of the Spleen.</head>
+               <p>TIS known by heavineſs, pain, beating &amp; ſwelling on the left ſide under the Ribs, there is loathing of meat; black<g ref="char:EOLhyphen"/>neſs of the Tongue, Thirſt, a Feaver, lying on the right ſide is very painful, and on the left is not eaſie. If it continue long, it degenerates into the <hi>Scurvy,</hi> and a <hi>Schirrus;</hi> afflicts the Pa<g ref="char:EOLhyphen"/>tient with Melancholy and pain in the ſide.</p>
+               <div type="cure">
+                  <pb n="101" facs="tcp:41865:51"/>
+                  <head>The Cure.</head>
+                  <p>Give every morning a dram of <hi>Pulvis Cachecticus,</hi> and ten drops of ſpirit of <hi>Harts Horn</hi> at night. The Tincture of Tar-drawn with its own ſpirit, or the ſpirit alone, are famous in this caſe, whereof 6 drops may be ta<g ref="char:EOLhyphen"/>ken at a time in Sack. Drop oyl of Vitriol on Salt of Tartar, till it ceaſe making a noiſe, then dry it and give Twenty grains at a time in broth, Tincture of Corals is much commended, take 8 or 9 drops at a time in fragrant Wine. Take the roots of Polipody, ſtamp them to an Impalpable pap, boyl them in common water ſix hours, ſtrain out the feces, clarifie the de<g ref="char:EOLhyphen"/>coction and make it into a
+<pb n="102" facs="tcp:41865:52"/>Syrrup, whereof take a ſpoon<g ref="char:EOLhyphen"/>full at a time, two or three times a day, Anoynt outwardly with the oyl of <hi>Rue,</hi> and apply a Plaiſter made up with the juice of <hi>Hemlock.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="39" type="section">
+               <head>
+                  <hi>Sect. 39.</hi> Stone in the Reins and Bladder.</head>
+               <p>'TIS known by pains about the Loynes, there is ſome times ſand and rediſh gra<g ref="char:EOLhyphen"/>vel voyded in the Urine, which is oft bloody, thin and in ſmall quantity; the thigh on that ſide where the ſtone is moſt commonly, is pained, and as it were benummed.</p>
+               <p>Stone in the bladder is known by vehement pain there after
+<pb n="103" facs="tcp:41865:52"/>making water, and the bigger the ſtone is, the greater is the pain, the Urine ſometimes ſtops ſuddenly; the Patient Piſſeth with moſt eaſe lying on the Back; and there is many times white Gravel ſent out with the <hi>
+                     <g ref="char:V">Ʋ</g>rine.</hi>
+               </p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Both theſe diſtempers are helped by ſuch Medicines as ſtrongly provoke Urine, 'mongſt which there are a ſort of wood Lice call'd Sows, are famous, being waſht in white wine, and the juice ſqueeſed into a draught of white wine, and ſo drank; you may begin with the juice of three at a time, and ſo increaſe every day one till you come to 20,
+<pb n="104" facs="tcp:41865:53"/>and then decreaſe the number. You may pierce a Birch-tree in the moneth of <hi>March,</hi> and it will ſend forth abundance of Liquor, which being drank with Gromwell ſeeds, is highly <hi>Famous</hi> in this caſe; ſo is the water diſtilled from an herb called Arſmart, uſed as the for<g ref="char:EOLhyphen"/>mer, or three ſpoonful of the juice drank in a glaſs of white Wine works the ſame effect, there is a fruit grows on white Thorn call'd Haws, the ſtones where of (being gathered full ripe) powdered and mixt with Gromwell ſeeds gives great eaſe to the Patient, being drank in white wine. See the 41 Secti<g ref="char:EOLhyphen"/>on.</p>
+               </div>
+            </div>
+            <div n="40" type="section">
+               <pb n="105" facs="tcp:41865:53"/>
+               <head>Sect. 40. <hi>Diabetes.</hi>
+               </head>
+               <p>IT is commonly call'd unmea<g ref="char:EOLhyphen"/>ſurable Piſſing, for the Re<g ref="char:EOLhyphen"/>tentive faculty is ſo weak, that whatſoever is drank by the Pa<g ref="char:EOLhyphen"/>tient is ſent forth again by urine as it was taken, there is an un<g ref="char:EOLhyphen"/>quenchable Thirſt, heat in the Bowels, Leanneſs, and if it be not ſuddenly cured 'tis deadly, bringing the Patient into a Conſumption.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Tincture of Emeralds in a his caſe is excellent, ſo is the ſalt and Tincture of <hi>Corals,</hi> to the quanti<g ref="char:EOLhyphen"/>ty of ten grains (of any of them) at once taken in <hi>Malaga</hi> Wine.</p>
+                  <pb n="106" facs="tcp:41865:54"/>
+                  <p>Take harts horn, burn it till 'tis white, powder it, boyl the ſame in common water, and let the Patient drink thereof, or take <hi>4</hi> or <hi>5</hi> handfuls of the inner bark of the young and tender branches of the <hi>Hazel-tree,</hi> (branches of one years growth) boyl them well in common water (or rather in ſmall beer) and let the Patient take thereof for his common drink; or in its ſtead, if ſteell be often heated and extinguiſhed in water, and that water drank, 'tis ſaid to be helpful in this caſe. But bind<g ref="char:EOLhyphen"/>ing <hi>Crocus</hi> of Iron is very power<g ref="char:EOLhyphen"/>ful in this Diſtemper, and muy be taken <hi>20</hi> grains at a time. Diſ<g ref="char:EOLhyphen"/>ſolve ſalt of Lead in water, and therewith bathe the back, and let a drying diet be uſed.</p>
+               </div>
+            </div>
+            <div n="41" type="section">
+               <pb n="107" facs="tcp:41865:54"/>
+               <head>
+                  <hi>Sect. 41.</hi> Stoppage and Diffi<g ref="char:EOLhyphen"/>culty of <g ref="char:V">Ʋ</g>rine.</head>
+               <p>SToppage of Urine may be cauſed by a ſtone, clotted blood, hardneſs, ſwelling or hurt of the Nerves, rela<g ref="char:EOLhyphen"/>ting to the bladder, 'tis very dangerous if it continue long, and the Patient is troubled with a Hiccough, and his breath ſtinks of urine.</p>
+               <p>Difficulty of urine is with Heat and Inflammation of the part, cauſing hot <hi>
+                     <g ref="char:V">Ʋ</g>rine,</hi> but is leſs dangerous than the former, but it the Patient be old, if it continue long and ſo ulcerate the neck of the Bladder it is not eaſily helped.</p>
+               <div type="cure">
+                  <pb n="108" facs="tcp:41865:55"/>
+                  <head>The Cure.</head>
+                  <p>
+                     <hi>The moſt potent medicines to cure theſe diſeaſes are thoſe ſet down in the</hi> 39 <hi>Section, where I treated of the ſtone, to which theſe follow<g ref="char:EOLhyphen"/>ing ſimples may be joyned, being proper in both caſes,</hi> viz. <hi>Camo<g ref="char:EOLhyphen"/>mil,</hi> Centaury, Burdock <hi>(Roots and ſeeds)</hi> Aſparagus, Brook<g ref="char:EOLhyphen"/>lime, Winter Cherries, Garlick, <hi>all ſorts of Parſley, reſt-Har<g ref="char:EOLhyphen"/>row, Betony,</hi> Caraway ſeeds, Cummin ſeeds, Anniſeeds, Fe<g ref="char:EOLhyphen"/>nugreek ſeeds, wild Carrot ſeeds, Juniper-Berries, Bay-Ber<g ref="char:EOLhyphen"/>ries, 8t. Johns-wort, Guaiacum, Fennel, Broom, Endive, Rag<g ref="char:EOLhyphen"/>wort, Lavender, Cloves, Fea<g ref="char:EOLhyphen"/>verfew, Smallage, Pellitory <hi>of the Wall,</hi> Rue, Garden-Creſſes, <hi>Cicely,</hi> Nutmegs, Cocle, Peni<g ref="char:EOLhyphen"/>royal,
+<pb n="109" facs="tcp:41865:55"/>Radiſh, Saxifrage, Wild-Time, Time, Lavender, Tame<g ref="char:EOLhyphen"/>risk, Vervain, Tanſie <hi>and</hi> Net<g ref="char:EOLhyphen"/>tles.</p>
+               </div>
+            </div>
+            <div n="42" type="section">
+               <head>Sect. 42. <hi>Feaver.</hi>
+               </head>
+               <p>THe cauſe (according to <hi>Van Helmont</hi>) is an <hi>Al<g ref="char:EOLhyphen"/>calie</hi> abounding, and there is a Poyſonous excrement in the <hi>Midriffs;</hi> the moſt gentle fea<g ref="char:EOLhyphen"/>vers continue but one 2, 3, or 4 dayes, wherein the Pulſe is equal, and Urine not much differing from its natural co<g ref="char:EOLhyphen"/>lour, and theſe are not dange<g ref="char:EOLhyphen"/>rous; if it continue longer, 'tis call'd a <hi>Putrid Feaver,</hi> wherein the <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> hath no ſe<g ref="char:EOLhyphen"/>diment, but is thick and red,
+<pb n="110" facs="tcp:41865:56"/>the Pulſe is unequal, and there is great heat; if there be a looſeneſs and vomiting there is hope of recovery. There is al<g ref="char:EOLhyphen"/>ſo a <hi>continual Feaver,</hi> which is ſometimes accompanied with a <hi>Pleuriſie, Quinſie, <g ref="char:V">Ʋ</g>leer,</hi> or In<g ref="char:EOLhyphen"/>flammation of the Lungs, and this is very dangerous. There is moreover a Burning Feaver, wherein the Tongue is dry, rough and blackiſh, there is a burning heat, thirſt, gnawing in the ſtomach, Pale and thin Excrements and great watch<g ref="char:EOLhyphen"/>ings, and this is very dangerous, but if the <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> be red; with ſigns of Concoction, there is hope.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>The beſt and ſafeſt way to cure
+<pb n="111" facs="tcp:41865:56"/>a Feaver, is by ſuch univerſal Me<g ref="char:EOLhyphen"/>dicines as ſimpathize with nature, and fortifie the heart; as Potable Gold <hi>5</hi> grains at once in Sack, or take ſpirit of Wine <hi>2</hi> ounces, Sy<g ref="char:EOLhyphen"/>rup of Clove-gilliflowers <hi>1</hi> ounce, Confectio Alkermes, <hi>1</hi> dram; mix and give a ſpoonfull at once in good Wine.</p>
+               </div>
+            </div>
+            <div n="43" type="section">
+               <head>Sect. 43. <hi>Ague.</hi>
+               </head>
+               <p>THere are three ſorts of <hi>Agues,</hi> (properly called Feavers) the firſt is named an Intermitting <hi>Quotidian;</hi> afflict<g ref="char:EOLhyphen"/>ing the Patient every day, the cold fit comes colder and col<g ref="char:EOLhyphen"/>der by degrees, yet is not very exceſſive on the one hand, nor
+<pb n="112" facs="tcp:41865:57"/>the hot fit much vehement on the other, but the diſeaſe com<g ref="char:EOLhyphen"/>monly laſts long, and many times degenerates into a <hi>Drop<g ref="char:EOLhyphen"/>ſie, Cachexia</hi> or <hi>Lethargy.</hi>
+               </p>
+               <p>The ſecond is call'd an <hi>In<g ref="char:EOLhyphen"/>termitting Tertian,</hi> it cometh every other day with pricking and vehement cold, the pulſe is equal, and anon a violent heat increaſeth, with much thirſt, and ſometimes vomiting.</p>
+               <p>The third is call'd an Inter<g ref="char:EOLhyphen"/>mitting <hi>Quartane,</hi> and comes with two days intermiſſion be<g ref="char:EOLhyphen"/>tween the fits: in the begin<g ref="char:EOLhyphen"/>ning the pulſe is ſlow, the fit comes with vehement cold, and afterwards comes a hot burn<g ref="char:EOLhyphen"/>ing fit, the <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> is white, thin and watry, this ſort of Ague
+<pb n="113" facs="tcp:41865:57"/>commeeth long, ſometimes turns to a Diopſie, and to old people is oft mortal.</p>
+               <div type="cure">
+                  <head>The Cure.</head>
+                  <p>Take ten drops of ſpirit of Sal <hi>Armoniac</hi> (in <hi>Centaury-water</hi>) at right going to bed, <hi>3</hi> or <hi>4</hi> times a weak, keep very warm, and ex<g ref="char:EOLhyphen"/>pect ſweat. <hi>Crude Allum</hi> twenty grains at once in warm Ale is ex<g ref="char:EOLhyphen"/>cellent, Take Bay Salt and freſh <hi>Engliſh Hops</hi> of each two hand<g ref="char:EOLhyphen"/>fuls, and <hi>4</hi> ounces of Blew our<g ref="char:EOLhyphen"/>rans; beat them all well together, ſpread it on Linnen, and apply it to both the wriſts.</p>
+               </div>
+            </div>
+            <div n="44" type="section">
+               <head>Sect. 44. <hi>Hectick-fever.</hi>
+               </head>
+               <p>IN this diſeaſe there is an un<g ref="char:EOLhyphen"/>natural heat kindled, as well
+<pb n="114" facs="tcp:41865:58"/>in the fleſhy and ſollid parts, as in the ſpirits; yet ſo without pain, that the Patient cannot tell that he hath a Feaver, there is a ſlack and hard pulſe, dry cough, Eyes hollow, ſhedding of Hair, Noſe ſharp, the face is Leady, <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> thine, crude white, or pale and at laſt oyly; the ſtomach is drawn in almoſt to the Ribbs and the whole bo<g ref="char:EOLhyphen"/>dy conſumeth.</p>
+               <p>This diſtemper is for the moſt part mortal, when it turns to a <hi>Maraſmos,</hi> and that is when all (or moſt of) the foreſaid ſymptomes joyntly appear, but if it be taken in time, and good means uſed, they may prove ef<g ref="char:EOLhyphen"/>fectual.</p>
+               <div type="cure">
+                  <pb n="115" facs="tcp:41865:58"/>
+                  <head>The Cure.</head>
+                  <p>This diſeaſe is cured like a Con<g ref="char:EOLhyphen"/>ſumption at the <hi>25</hi> Section. Let the Patient feed much upon Rai<g ref="char:EOLhyphen"/>ſons of the Sun, and Almonds, and let him drink Milk with a few drops of oyl of <hi>Cinamon,</hi> But Aſſes Milk with ſalt of Pearl is ſaid to tranſcend. Annoint the back bone with oyl of Bay-berries mixt with oyl of Almonds. Take <hi>Nutmegs</hi> and <hi>Cynamon</hi> of each <hi>3</hi> ounces, Ginger <hi>3</hi> drams, <hi>Ma<g ref="char:EOLhyphen"/>giſtry</hi> of Pearl <hi>2</hi> ounces, Honey prepared <hi>12</hi> ounces, make it into an Electuary, and take thereof <hi>4</hi> times a day, the quantity of an Hazlenut at once. <hi>Spiritus Anale<g ref="char:EOLhyphen"/>pticus,</hi> taken half an ounce at once is excellent. The Eſſence of <hi>Bor<g ref="char:EOLhyphen"/>rage</hi> and <hi>Bugloſs</hi> is highly com<g ref="char:EOLhyphen"/>mended
+<pb n="116" facs="tcp:41865:59"/>in the caſe<g ref="char:punc">▪</g> ſo is the <hi>Ma<g ref="char:EOLhyphen"/>giſtry</hi> of <hi>Corals 10</hi> grains at a time.</p>
+               </div>
+            </div>
+            <div n="45" type="section">
+               <head>
+                  <hi>Sect. 45.</hi> Spotted-feaver, and Plague.</head>
+               <p>A Spotted Feaver is a conti<g ref="char:EOLhyphen"/>nual malignant burning-Feaver, the Patient is torment<g ref="char:EOLhyphen"/>ed with pain in the head, faint<g ref="char:EOLhyphen"/>ings, exceſſive Heat, Thirſt, and watchings; having (after a few dayes) ſpots coming out, ſometimes all over the body, and ſometimes only on one part, being ſmall and of a red<g ref="char:EOLhyphen"/>diſh, purpliſh, livid, Leaden, or ſometimes blackiſh colour; the diſtemper commonly ends in
+<pb n="117" facs="tcp:41865:59"/>ſeven dayes time; if the ſpots turn livid or black, and the <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>rine</hi> look as it did in health, 'tis exceeding dangerous.</p>
+               <p>The <hi>Plague</hi> is a continual Malignant burning <hi>Feaver,</hi> wherein the Patient is hot with<g ref="char:EOLhyphen"/>in and cold without; there is exceſſive pain in the head; with heavineſs, wearineſs, Lumpiſh<g ref="char:EOLhyphen"/>neſs, careleſsneſs, ſleepineſs and Sadneſs of the mind, loſs of Ap<g ref="char:EOLhyphen"/>petite, vomiting, thirſt, bitter<g ref="char:EOLhyphen"/>neſs, and drineſs of the mouth; <hi>
+                     <g ref="char:V">Ʋ</g>rine</hi> thick and ſtinking. The Pulſe ſmall and deep; there is Bubo's behind the Ears, under the Arm-holes, or in the grom; or elſe <hi>Carbuncles</hi> or <hi>Blew, Reddiſh,</hi> or <hi>Lived ſpots,</hi> the Diſ<g ref="char:EOLhyphen"/>eaſe is dangerous, but 'tis moſt
+<pb n="118" facs="tcp:41865:60"/>deadly when no Buboe's come forth, or when they come forth and go in again, or if they the ſpots appear of a Livid or black Colour, 'tis commonly mortal. <hi>The Cure.</hi>
+               </p>
+               <p>
+                  <hi>Theſe distempers are helped by ſuch Medicines as chear the ſpirits and comfort the heart, as the</hi> Tincture <hi>of</hi> Life. <hi>Which is thus made. Take ſpirit of Wine one quart,</hi> Cochineal (<hi>or</hi> Eng<g ref="char:EOLhyphen"/>liſh Saffron) <hi>one ounce, put them in a large glaſs well corked, ſet it in warm place for</hi> 20 <hi>dayes, pour off the tincture, and give a quarter of an ounce at once in the Patients drink.</hi> Spirit <hi>of</hi> Harts<g ref="char:EOLhyphen"/>horn 20 <hi>drops at once is excel<g ref="char:EOLhyphen"/>lent, but the moſt tranſcending medicament is</hi> 5 <hi>grains of Pota<g ref="char:EOLhyphen"/>ble Gold.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="119" facs="tcp:41865:60"/>
+            <head>The Concluſion.</head>
+            <p>THis <hi>Compendium</hi> (adventur'd upon the Publick Stage for the Worlds Speculation) I gathered in<g ref="char:EOLhyphen"/>to ſo ſmall a Volume, for my own Uſe (as Occaſion ſerves) in my Pra<g ref="char:EOLhyphen"/>ctice: But conceiving it might be ſerviceable for ſuch Ingenious well-diſpoſed Perſons, as are willing to help their poor Languiſhing and Sick Neighbours, (that want Silver-cords to draw the Advice of Money-ſuck<g ref="char:EOLhyphen"/>ing <hi>Phyſicians,</hi> to ſupply their Ne<g ref="char:EOLhyphen"/>ceſſities) I have adventured to run the hazard of being ſharl'd at by all Callumnious Tongues; of whom I may ſay, as was ſaid of old, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Nor do I ſo much as hope to eſcape being bit<g ref="char:EOLhyphen"/>ten by the Heels by thoſe Gnathoni<g ref="char:EOLhyphen"/>cal Currs, who prefer Self-Intereſt
+<pb facs="tcp:41865:61"/>before a Publick Good, (like him who ſaid, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Howbeit, I have <hi>Hercu<g ref="char:EOLhyphen"/>lean</hi> Hopes, that this little Piece of <hi>Medicinal Marrow</hi> will meet with ſome Ingenious Interpreters of my harmleſs Meaning; who would do good to all, to the utmoſt of my A<g ref="char:EOLhyphen"/>bility.</p>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>An Advertiſement.</head>
+            <p>POor People languiſhing under Bo<g ref="char:EOLhyphen"/>dily Diſtempers, may have free Advice and Medicines for not<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, from the <hi>Author of this Book;</hi> who may be met with moſt (if not all) Market-days, at the ſigne of the Crown in <hi>Loughborough.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41865:61"/>
+         </div>
+      </back>
+   </text>
+</TEI>
